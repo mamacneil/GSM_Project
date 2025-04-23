@@ -1,0 +1,1219 @@
+Class,Superorder,Order,Family,Genus,species_binomial,Dulvy_priority,PrimaryHabitat,DepthMin_m_text,DepthMax_m_text,MaxLinearDimension,BodySizeClass,EcomorphotypeLevel1
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Anacanthobatis,Anacanthobatis marmorata,Skates,Deepwater,200,433,29,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Indobatis,Indobatis ori,Skates,Deepwater,1000,1725,43,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Schroederobatis,Schroederobatis americana,Skates,Deepwater,183,915,38,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Sinobatis,Sinobatis andamanensis,Skates,Deepwater,508,518,42.9,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Sinobatis,Sinobatis borneensis,Skates,Deepwater,316,990,34.8,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Sinobatis,Sinobatis brevicauda,Skates,Deepwater,960,1130,59.1,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Sinobatis,Sinobatis bulbicauda,Skates,Deepwater,150,1125,56,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Sinobatis,Sinobatis caerulea,Skates,Deepwater,480,1170,69,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Sinobatis,Sinobatis filicauda,Skates,Deepwater,606,880,55,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Sinobatis,Sinobatis kotlyari,Skates,Deepwater,1400,1400,33.1,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Sinobatis,Sinobatis melanosoma,Skates,Deepwater,575,1100,59.4,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Sinobatis,Sinobatis stenosoma,Skates,Deepwater,520,534,52,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Springeria,Springeria folirostris,Skates,Deepwater,300,510,62,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Anacanthobatidae,Springeria,Springeria longirostris,Skates,Deepwater,500,1050,75,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Arhynchobatis,Arhynchobatis asperrimus,Skates,Deepwater,55,1095,75,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja abyssicola,Skates,Deepwater,362,2906,110,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja aguja,Skates,Deepwater,980,980,76,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja albomaculata,Skates,Deepwater,55,945,150,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja aleutica,Skates,Deepwater,15,1602,154,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja andriashevi,Skates,Deepwater,1200,2004,120,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja bergi,Skates,Deepwater,70,900,102,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja brachyurops,Skates,Deepwater,28,604,125,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja cousseauae,Skates,Deepwater,104,1190,122,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja diplotaenia,Skates,Deepwater,100,1000,87.7,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja eatonii,Skates,Deepwater,15,800,126,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja fedorovi,Skates,Deepwater,447,2025,150,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja griseocauda,Skates,Deepwater,30,1010,157,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja hesperafricana,Skates,Deepwater,750,2200,87,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja interrupta,Skates,Deepwater,23,1500,89,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja irrasa,Skates,Deepwater,300,1200,140,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja ishiharai,Skates,Deepwater,2320,2391,123,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja isotrachys,Skates,Deepwater,100,2000,86,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja kincaidii,Skates,Deepwater,200,1370,64,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja leucomelanos,Skates,Deepwater,953,1022,89.5,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja lindbergi,Skates,Deepwater,126,1193,102,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja longicauda,Skates,Deepwater,580,735,23.5,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja maccaini,Skates,Deepwater,91,500,120,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja macloviana,Skates,Deepwater,48,514,71,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja maculata,Skates,Deepwater,73,1193,147,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja matsubarai,Skates,Deepwater,120,2000,126,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja meridionalis,Skates,Deepwater,65,2240,150,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja microtrachys,Skates,Deepwater,1995,3100,70,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja minispinosa,Skates,Deepwater,150,1420,89.5,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja multispinis,Skates,Deepwater,72,740,126,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja murrayi,Skates,Deepwater,20,800,60,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja pacifica,Skates,Deepwater,1760,1790,122,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja pallida,Skates,Deepwater,1869,3280,162,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja papilionifera,Skates,Deepwater,637,2000,150,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja parmifera,Skates,Deepwater,17,1840,111,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja peruana,Skates,Deepwater,243,1060,110,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja richardsoni,Skates,Deepwater,501,3055,174,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja schroederi,Skates,Deepwater,800,2380,130,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja shuntovi,Skates,Deepwater,300,1479,175,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja smirnovi,Skates,Deepwater,100,1125,116,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja smithii,Skates,Deepwater,250,1040,120,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja spinicauda,Skates,Deepwater,140,1650,182,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja spinosissima,Skates,Deepwater,800,2938,203,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja taranetzi,Skates,Deepwater,80,1000,77,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja trachouros,Skates,Deepwater,100,800,102,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja trachura,Skates,Deepwater,91,2900,91,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja tunae,Skates,Deepwater,1700,2240,97,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja tzinovskii,Skates,Deepwater,1776,2500,94,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja violacea,Skates,Deepwater,23,1110,107,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Brochiraja,Brochiraja aenigma,Skates,Deepwater,422,437,44,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Brochiraja,Brochiraja albilabiata,Skates,Deepwater,900,1003,65,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Brochiraja,Brochiraja asperula,Skates,Deepwater,200,1300,78,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Brochiraja,Brochiraja heuresa,Skates,Deepwater,870,1350,38,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Brochiraja,Brochiraja leviveneta,Skates,Deepwater,300,1200,51,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Brochiraja,Brochiraja microspinifera,Skates,Deepwater,600,1200,33,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Brochiraja,Brochiraja spinifera,Skates,Deepwater,125,1500,84,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Brochiraja,Brochiraja vittacauda,Skates,Deepwater,629,973,72,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Insentiraja,Insentiraja laxipella,Skates,Deepwater,802,880,57,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Insentiraja,Insentiraja subtilispinosa,Skates,Deepwater,320,1460,57,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja alisae,Skates,Deepwater,870,1049,84,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja azurea,Skates,Deepwater,765,1440,64.5,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja fijiensis,Skates,Deepwater,567,699,39,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja hirticauda,Skates,Deepwater,500,760,44.8,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja inusitata,Skates,Deepwater,807,844,44,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja lira,Skates,Deepwater,1050,1050,41.5,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja longiventralis,Skates,Deepwater,660,953,43,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja martinezi,Skates,Deepwater,1256,1472,48,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja ochroderma,Skates,Deepwater,348,465,37,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja sapphira,Skates,Deepwater,1195,1313,41.3,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja sereti,Skates,Deepwater,800,980,45.9,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja sticta,Skates,Deepwater,820,1200,63,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Notoraja,Notoraja tobitukai,Skates,Deepwater,60,1017,51,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Pavoraja,Pavoraja alleni,Skates,Deepwater,304,458,34.9,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Pavoraja,Pavoraja arenaria,Skates,Deepwater,192,712,34.3,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Pavoraja,Pavoraja mosaica,Skates,Deepwater,300,492,28,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Pavoraja,Pavoraja nitida,Skates,Deepwater,30,450,36.8,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Pavoraja,Pavoraja pseudonitida,Skates,Deepwater,212,512,37,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Pavoraja,Pavoraja umbrosa,Skates,Deepwater,360,731,36.9,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Psammobatis,Psammobatis scobina,Skates,Deepwater,30,450,50,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Pseudoraja,Pseudoraja fischeri,Skates,Deepwater,410,576,58,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Rhinoraja,Rhinoraja kujiensis,Skates,Deepwater,450,1000,104,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Rhinoraja,Rhinoraja longicauda,Skates,Deepwater,300,1000,69,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Rhinoraja,Rhinoraja odai,Skates,Deepwater,300,870,60,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Cruriraja,Cruriraja andamanica,Skates,Deepwater,274,525,50,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Cruriraja,Cruriraja atlantis,Skates,Deepwater,510,860,34,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Cruriraja,Cruriraja cadenati,Skates,Deepwater,457,896,38,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Cruriraja,Cruriraja durbanensis,Skates,Deepwater,860,860,31,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Cruriraja,Cruriraja hulleyi,Skates,Deepwater,39,545,59,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Cruriraja,Cruriraja parcomaculata,Skates,Deepwater,65,680,43,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Cruriraja,Cruriraja poeyi,Skates,Deepwater,366,870,34,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Cruriraja,Cruriraja rugosa,Skates,Deepwater,250,1010,51,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Fenestraja,Fenestraja atripinna,Skates,Deepwater,366,951,29,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Fenestraja,Fenestraja cubensis,Skates,Deepwater,310,870,30,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Fenestraja,Fenestraja ishiyamai,Skates,Deepwater,503,950,36,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Fenestraja,Fenestraja maceachrani,Skates,Deepwater,600,765,42,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Fenestraja,Fenestraja mamillidens,Skates,Deepwater,1090,1092,29.2,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Fenestraja,Fenestraja plutonia,Skates,Deepwater,293,1024,27,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Fenestraja,Fenestraja sibogae,Skates,Deepwater,289,290,31.4,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Fenestraja,Fenestraja sinusmexicanus,Skates,Deepwater,56,1096,36,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Gurgesiella,Gurgesiella atlantica,Skates,Deepwater,247,960,52,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Gurgesiella,Gurgesiella dorsalifera,Skates,Deepwater,400,800,53,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Gurgesiellidae,Gurgesiella,Gurgesiella furvescens,Skates,Deepwater,300,960,63,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Amblyraja,Amblyraja badia,Skates,Deepwater,NA,NA,NA,NA,NA
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Amblyraja,Amblyraja doellojuradoi,Skates,Deepwater,51,1000,69,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Amblyraja,Amblyraja frerichsi,Skates,Deepwater,168,2610,176.2,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Amblyraja,Amblyraja georgiana,Skates,Deepwater,20,1254,115,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Amblyraja,Amblyraja hyperborea,Skates,Deepwater,167,3167,107,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Amblyraja,Amblyraja jenseni,Skates,Deepwater,165,2550,122,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Amblyraja,Amblyraja reversa,Skates,Deepwater,600,1500,60,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Amblyraja,Amblyraja taaf,Skates,Deepwater,150,600,113,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Beringraja,Beringraja inornata,Skates,Deepwater,15,670,76,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Breviraja,Breviraja claramaculata,Skates,Deepwater,293,896,29,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Breviraja,Breviraja colesi,Skates,Deepwater,220,623,40,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Breviraja,Breviraja mouldi,Skates,Deepwater,353,776,41,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Breviraja,Breviraja nigriventralis,Skates,Deepwater,549,776,44,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Breviraja,Breviraja spinosa,Skates,Deepwater,366,671,33,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dactylobatus,Dactylobatus armatus,Skates,Deepwater,338,685,32,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dactylobatus,Dactylobatus clarkii,Skates,Deepwater,298,1000,75,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dentiraja,Dentiraja oculus,Skates,Deepwater,200,390,55.7,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dentiraja cerva,Skates,Deepwater,60,470,66,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dentiraja healdi,Skates,Deepwater,305,520,72,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dentiraja polyommata,Skates,Deepwater,135,400,38,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus acrobelus,Skates,Deepwater,446,1328,137,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus amphispinus,Skates,Deepwater,NA,NA,90,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus apricus,Skates,Deepwater,196,606,77,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus bullisi,Skates,Deepwater,185,550,77,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus campbelli,Skates,Deepwater,137,403,66,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus canutus,Skates,Deepwater,155,1050,90,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus crosnieri,Skates,Deepwater,300,850,61,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus doutrei,Skates,Deepwater,163,1200,115,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus ecuadoriensis,Skates,Deepwater,NA,NA,39,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus garricki,Skates,Deepwater,275,476,107,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus gigas,Skates,Deepwater,300,1000,186,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus grahamorum,Skates,Deepwater,146,490,64,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus gudgeri,Skates,Deepwater,160,765,184,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus innominatus,Skates,Deepwater,10,1450,240,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus johannisdavisi,Skates,Deepwater,10,790,54,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus lamillai,Skates,Deepwater,101,572,155,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus lanceorostratus,Skates,Deepwater,430,439,82,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus leptocaudus,Skates,Deepwater,10,550,88,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus macrocauda,Skates,Deepwater,300,800,130,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus melanospilus,Skates,Deepwater,239,695,78,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus mennii,Skates,Deepwater,133,550,167,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus nasutus,Skates,Deepwater,10,1500,90,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus nidarosiensis,Skates,Deepwater,124,1420,230,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus oregoni,Skates,Deepwater,475,1079,144,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus oxyrinchus,Skates,Deepwater,70,1230,150,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus pullopunctatus,Skates,Deepwater,15,457,130,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus queenslandicus,Skates,Deepwater,399,606,76,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus springeri,Skates,Deepwater,50,970,192,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus stenorhynchus,Skates,Deepwater,253,761,101,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus teevani,Skates,Deepwater,311,940,84,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus tengu,Skates,Deepwater,45,400,113,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus trachydermus,Skates,Deepwater,20,500,264,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus wengi,Skates,Deepwater,486,1165,128,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus wuhanlingi,Skates,Deepwater,NA,NA,100,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja compagnoi,Skates,Deepwater,480,625,51.7,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja elaineae,Skates,Deepwater,484,484,33,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja fullonica,Skates,Deepwater,30,600,120,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja garmani,Skates,Deepwater,33,530,57,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja lentiginosa,Skates,Deepwater,53,588,44,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja leucosticta,Skates,Deepwater,70,704,80,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja melitensis,Skates,Deepwater,60,800,50,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja pristispina,Skates,Deepwater,202,504,40,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja wallacei,Skates,Deepwater,73,517,96,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja yucatanensis,Skates,Deepwater,192,457,30,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Malacoraja,Malacoraja kreffti,Skates,Deepwater,1000,1500,57,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Malacoraja,Malacoraja obscura,Skates,Deepwater,808,1105,68,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Malacoraja,Malacoraja senta,Skates,Deepwater,25,1436,71,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Malacoraja,Malacoraja spinacidermis,Skates,Deepwater,450,1568,64,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Neoraja,Neoraja africana,Skates,Deepwater,900,1550,30.4,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Neoraja,Neoraja caerulea,Skates,Deepwater,600,1540,32,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Neoraja,Neoraja carolinensis,Skates,Deepwater,695,1010,29,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Neoraja,Neoraja iberica,Skates,Deepwater,270,784,32.7,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Neoraja,Neoraja stehmanni,Skates,Deepwater,102,1025,38,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei heemstrai,Skates,Deepwater,200,500,61,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei leptoura,Skates,Deepwater,202,735,55.5,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei ornata,Skates,Deepwater,375,390,51,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Orbiraja,Orbiraja philipi,Skates,Deepwater,238,238,36,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja polystigma,Skates,Deepwater,10,635,60,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella annandalei,Skates,Deepwater,397,830,32.7,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella barnardi,Skates,Deepwater,100,1700,75,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella bathyphila,Skates,Deepwater,600,2300,95,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella bigelowi,Skates,Deepwater,625,4156,55,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella caudaspinosa,Skates,Deepwater,102,1098,65,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella challengeri,Skates,Deepwater,860,1500,56,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella dissimilis,Skates,Deepwater,400,1640,82,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella eisenhardti,Skates,Deepwater,757,907,38.5,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella fuliginea,Skates,Deepwater,731,1280,45,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella fyllae,Skates,Deepwater,147,2055,56,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella kukujevi,Skates,Deepwater,750,2191,83,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella leoparda,Skates,Deepwater,130,1920,95,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella lintea,Skates,Deepwater,150,1500,125,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella nigerrima,Skates,Deepwater,590,1000,46,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella paucispinosa,Skates,Deepwater,1230,1260,50,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella purpuriventralis,Skates,Deepwater,730,2010,65,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella ravidula,Skates,Deepwater,496,1477,79,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rajella,Rajella sadowskii,Skates,Deepwater,800,1360,75,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rostroraja,Rostroraja bahamensis,Skates,Deepwater,365,410,54,medium,rajobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus albisoma,Deepwater sharks,Deepwater,935,1564,60,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus ampliceps,Deepwater sharks,Deepwater,800,1503,87,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus aphyodes,Deepwater sharks,Deepwater,800,1809,54,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus australis,Deepwater sharks,Deepwater,445,1035,83,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus breviventralis,Deepwater sharks,Deepwater,1000,1120,48.5,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus brunneus,Deepwater sharks,Deepwater,24,1341,51.4,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus bucephalus,Deepwater sharks,Deepwater,920,1140,67.5,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus canutus,Deepwater sharks,Deepwater,521,915,46,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus exsanguis,Deepwater sharks,Deepwater,573,1200,91,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus fedorovi,Deepwater sharks,Deepwater,810,1430,68.3,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus garricki,Deepwater sharks,Deepwater,517,1200,85,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus gibbosus,Deepwater sharks,Deepwater,600,913,54.8,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus herklotsi,Deepwater sharks,Deepwater,423,910,52,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus indicus,Deepwater sharks,Deepwater,1225,1840,33.6,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus internatus,Deepwater sharks,Deepwater,200,1000,41.9,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus investigatoris,Deepwater sharks,Deepwater,907,1040,31,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus japonicus,Deepwater sharks,Deepwater,820,915,71.1,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus kampae,Deepwater sharks,Deepwater,177,1888,64.7,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus laurussonii,Deepwater sharks,Deepwater,560,2060,72,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus longicephalus,Deepwater sharks,Deepwater,500,1350,59,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus macrorhynchus,Deepwater sharks,Deepwater,220,1140,67.4,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus macrostomus,Deepwater sharks,Deepwater,220,1069,57.3,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus manis,Deepwater sharks,Deepwater,600,1900,88,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus melanoasper,Deepwater sharks,Deepwater,512,1683,79,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus microps,Deepwater sharks,Deepwater,700,2200,61,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus micropterygeus,Deepwater sharks,Deepwater,913,913,37.2,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus nakayai,Deepwater sharks,Deepwater,853,1022,67.6,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus nasutus,Deepwater sharks,Deepwater,250,950,59,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus parvipinnis,Deepwater sharks,Deepwater,600,1220,52,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus pinguis,Deepwater sharks,Deepwater,858,2057,65,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus platyrhynchus,Deepwater sharks,Deepwater,400,1080,71,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus profundorum,Deepwater sharks,Deepwater,1000,1830,76,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus riveri,Deepwater sharks,Deepwater,622,1500,48,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus saldanha,Deepwater sharks,Deepwater,344,1009,89,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus sibogae,Deepwater sharks,Deepwater,655,655,23,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus sinensis,Deepwater sharks,Deepwater,537,1290,75,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus spongiceps,Deepwater sharks,Deepwater,572,1482,51.4,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus stenseni,Deepwater sharks,Deepwater,915,975,46,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Apristurus,Apristurus yangi,Deepwater sharks,Deepwater,630,786,43.7,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Asymbolus,Asymbolus galacticus,Deepwater sharks,Deepwater,235,550,47.7,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Asymbolus,Asymbolus pallidus,Deepwater sharks,Deepwater,174,444,47,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus alcockii,Deepwater sharks,Deepwater,1134,1262,30,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus bachi,Deepwater sharks,Deepwater,910,1365,45,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus canescens,Deepwater sharks,Deepwater,237,960,85,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus clevai,Deepwater sharks,Deepwater,400,500,40,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus dawsoni,Deepwater sharks,Deepwater,240,992,42,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus giddingsi,Deepwater sharks,Deepwater,428,562,45.3,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus hispidus,Deepwater sharks,Deepwater,200,800,37,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus immaculatus,Deepwater sharks,Deepwater,534,1020,76.4,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus incanus,Deepwater sharks,Deepwater,900,1000,45.4,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus lutarius,Deepwater sharks,Deepwater,338,766,39,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus naylori,Deepwater sharks,Deepwater,752,1443,55,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus stewarti,Deepwater sharks,Deepwater,380,420,43.7,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus tenuicephalus,Deepwater sharks,Deepwater,463,550,29,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Bythaelurus,Bythaelurus vivaldii,Deepwater sharks,Deepwater,628,628,32.5,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Cephalurus,Cephalurus cephalus,Deepwater sharks,Deepwater,155,927,30,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Figaro,Figaro boardmani,Deepwater sharks,Deepwater,128,823,61,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Figaro,Figaro striatus,Deepwater sharks,Deepwater,239,590,42,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus antillensis,Deepwater sharks,Deepwater,293,695,46,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus arae,Deepwater sharks,Deepwater,292,732,33,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus atlanticus,Deepwater sharks,Deepwater,328,790,46,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus cadenati,Deepwater sharks,Deepwater,262,549,35,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus corriganae,Deepwater sharks,Deepwater,500,743,37.2,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus eastmani,Deepwater sharks,Deepwater,100,900,65,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus gracilis,Deepwater sharks,Deepwater,290,470,34,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus longirostris,Deepwater sharks,Deepwater,330,550,80.6,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus melastomus,Deepwater sharks,Deepwater,55,2000,90,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus mincaronei,Deepwater sharks,Deepwater,130,600,43,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus murinus,Deepwater sharks,Deepwater,380,1300,63,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus nipponensis,Deepwater sharks,Deepwater,150,540,80,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus piperatus,Deepwater sharks,Deepwater,130,1326,37,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus polli,Deepwater sharks,Deepwater,159,720,43,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus priapus,Deepwater sharks,Deepwater,262,830,45.5,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus schultzi,Deepwater sharks,Deepwater,50,431,29.7,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus springeri,Deepwater sharks,Deepwater,457,824,44,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Holohalaelurus,Holohalaelurus favus,Deepwater sharks,Deepwater,200,1000,51.5,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Holohalaelurus,Holohalaelurus grennian,Deepwater sharks,Deepwater,238,353,27,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Holohalaelurus,Holohalaelurus melanostigma,Deepwater sharks,Deepwater,607,658,38,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Holohalaelurus,Holohalaelurus punctatus,Deepwater sharks,Deepwater,220,420,34,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Holohalaelurus,Holohalaelurus regani,Deepwater sharks,Deepwater,15,1075,69,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Parmaturus,Parmaturus albimarginatus,Deepwater sharks,Deepwater,590,732,57.7,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Parmaturus,Parmaturus albipenis,Deepwater sharks,Deepwater,688,732,41.5,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Parmaturus,Parmaturus angelae,Deepwater sharks,Deepwater,500,600,42.5,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Parmaturus,Parmaturus bigus,Deepwater sharks,Deepwater,590,6060,71,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Parmaturus,Parmaturus campechiensis,Deepwater sharks,Deepwater,1097,1097,15.7,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Parmaturus,Parmaturus lanatus,Deepwater sharks,Deepwater,840,855,36,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Parmaturus,Parmaturus macmillani,Deepwater sharks,Deepwater,950,1003,47,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Parmaturus,Parmaturus melanobranchus,Deepwater sharks,Deepwater,448,1110,85,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Parmaturus,Parmaturus pilosus,Deepwater sharks,Deepwater,358,1177,64,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Parmaturus,Parmaturus xaniurus,Deepwater sharks,Deepwater,91,1251,61,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Pentanchus,Pentanchus profundicolus,Deepwater sharks,Deepwater,673,1069,50.8,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Proscyllidae,Eridacnis,Eridacnis barbouri,Deepwater sharks,Deepwater,430,613,34,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Proscyllidae,Eridacnis,Eridacnis radcliffei,Deepwater sharks,Deepwater,71,766,24,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Proscyllidae,Eridacnis,Eridacnis sinuans,Deepwater sharks,Deepwater,180,480,37,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pseudotriakidae,Gollum,Gollum attenuatus,Deepwater sharks,Deepwater,129,724,110,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pseudotriakidae,Gollum,Gollum suluensis,Deepwater sharks,Deepwater,730,730,65.2,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pseudotriakidae,Planonasus,Planonasus indicus,Deepwater sharks,Deepwater,200,1000,64,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pseudotriakidae,Planonasus,Planonasus parini,Deepwater sharks,Deepwater,560,1120,53,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pseudotriakidae,Pseudotriakis,Pseudotriakis microdon,Deepwater sharks,Deepwater,100,2430,296,large,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Akheilos,Akheilos suwartanai,Deepwater sharks,Deepwater,NA,NA,53.7,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium albipinnum,Deepwater sharks,Deepwater,126,554,110,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium cooki,Deepwater sharks,Deepwater,223,300,30,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium fasciatum,Deepwater sharks,Deepwater,200,450,42.4,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium formosanum,Deepwater sharks,Deepwater,366,366,65.5,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium hiscosellum,Deepwater sharks,Deepwater,294,420,52,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium isabellum,Deepwater sharks,Deepwater,126,673,92,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium pictum,Deepwater sharks,Deepwater,100,500,71.7,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium signourum,Deepwater sharks,Deepwater,480,700,74,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium silasi,Deepwater sharks,Deepwater,200,500,49.5,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium speccum,Deepwater sharks,Deepwater,150,455,69,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium stevensi,Deepwater sharks,Deepwater,240,274,66,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium sufflans,Deepwater sharks,Deepwater,40,605,110,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium umbratile,Deepwater sharks,Deepwater,90,590,115,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium variegatum,Deepwater sharks,Deepwater,114,606,74,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium zebrum,Deepwater sharks,Deepwater,444,454,45,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Schroederichthys,Schroederichthys maculatus,Deepwater sharks,Deepwater,190,412,35,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Schroederichthys,Schroederichthys saurisqualus,Deepwater sharks,Deepwater,122,500,70,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Schroederichthys,Schroederichthys tenuis,Deepwater sharks,Deepwater,72,450,47,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus boa,Deepwater sharks,Deepwater,200,700,54,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus cabofriensis,Deepwater sharks,Deepwater,200,536,47,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus capensis,Deepwater sharks,Deepwater,26,695,112,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus comoroensis,Deepwater sharks,Deepwater,200,400,46,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus garmani,Deepwater sharks,Deepwater,NA,NA,38,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus haeckelii,Deepwater sharks,Deepwater,37,402,57,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus hesperius,Deepwater sharks,Deepwater,274,530,47,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus meadi,Deepwater sharks,Deepwater,329,549,75,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus retifer,Deepwater sharks,Deepwater,73,754,59,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus torazame,Deepwater sharks,Deepwater,0,320,77.8,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus torrei,Deepwater sharks,Deepwater,180,560,32,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus ugoi,Deepwater sharks,Deepwater,247,500,63,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Hemitriakis,Hemitriakis abdita,Deepwater sharks,Deepwater,224,402,60,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Iago,Iago garricki,Deepwater sharks,Deepwater,250,477,75,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Iago,Iago omanensis,Deepwater sharks,Deepwater,92,2195,89,small,littoral
+Elasmobranchii,Selachimorpha,Echinorhiniformes,Echinorhinidae,Echinorhinus,Echinorhinus brucus,Deepwater sharks,Deepwater,10,900,394,large,bathic
+Elasmobranchii,Selachimorpha,Echinorhiniformes,Echinorhinidae,Echinorhinus,Echinorhinus cookei,Deepwater sharks,Deepwater,4,1100,450,large,bathic
+Elasmobranchii,Selachimorpha,Hexanchiformes,Chlamydoselachidae,Chlamydoselachus,Chlamydoselachus africana,Deepwater sharks,Deepwater,300,1400,117,small,hexanchobenthic
+Elasmobranchii,Selachimorpha,Hexanchiformes,Chlamydoselachidae,Chlamydoselachus,Chlamydoselachus anguineus,Deepwater sharks,Deepwater,17,1520,196,medium,hexanchobenthic
+Elasmobranchii,Selachimorpha,Hexanchiformes,Hexanchidae,Heptranchias,Heptranchias perlo,Deepwater sharks,Deepwater,0,1000,140,small,hexanchobenthic
+Elasmobranchii,Selachimorpha,Hexanchiformes,Hexanchidae,Hexanchus,Hexanchus griseus,Deepwater sharks,Deepwater,0,2490,550,large,hexanchobenthic
+Elasmobranchii,Selachimorpha,Hexanchiformes,Hexanchidae,Hexanchus,Hexanchus nakamurai,Deepwater sharks,Deepwater,0,702,177.8,medium,hexanchobenthic
+Elasmobranchii,Selachimorpha,Hexanchiformes,Hexanchidae,Hexanchus,Hexanchus vitulus,Deepwater sharks,Deepwater,90,701,180,medium,hexanchobenthic
+Elasmobranchii,Selachimorpha,Lamniformes,Odontaspididae,Odontaspis,Odontaspis ferox,Deepwater sharks,Deepwater,10,1015,450,large,littoral
+Elasmobranchii,Selachimorpha,Lamniformes,Odontaspididae,Odontaspis,Odontaspis noronhai,Deepwater sharks,Deepwater,35,1000,427,large,littoral
+Elasmobranchii,Selachimorpha,Orectolobiformes,Parascyllidae,Cirrhoscyllium,Cirrhoscyllium japonicum,Deepwater sharks,Deepwater,250,290,49,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Parascyllidae,Parascyllium,Parascyllium sparsimaculatum,Deepwater sharks,Deepwater,205,245,78.1,small,leptobenthic
+Elasmobranchii,Selachimorpha,Pristiophoriformes,Pristiophoridae,Pliotrema,Pliotrema warreni,Deepwater sharks,Deepwater,10,915,136,small,pristobenthic
+Elasmobranchii,Selachimorpha,Pristiophoriformes,Pristiophoridae,Pristiophoridae,Pliotrema kajae,Deepwater sharks,Deepwater,214,320,143,small,pristobenthic
+Elasmobranchii,Selachimorpha,Pristiophoriformes,Pristiophoridae,Pristiophorus,Pristiophorus delicatus,Deepwater sharks,Deepwater,239,511,95,small,pristobenthic
+Elasmobranchii,Selachimorpha,Pristiophoriformes,Pristiophoridae,Pristiophorus,Pristiophorus japonicus,Deepwater sharks,Deepwater,50,1240,153,medium,pristobenthic
+Elasmobranchii,Selachimorpha,Pristiophoriformes,Pristiophoridae,Pristiophorus,Pristiophorus lanae,Deepwater sharks,Deepwater,229,593,89.5,small,pristobenthic
+Elasmobranchii,Selachimorpha,Pristiophoriformes,Pristiophoridae,Pristiophorus,Pristiophorus nancyae,Deepwater sharks,Deepwater,286,570,62,small,pristobenthic
+Elasmobranchii,Selachimorpha,Pristiophoriformes,Pristiophoridae,Pristiophorus,Pristiophorus schroederi,Deepwater sharks,Deepwater,438,952,81,small,pristobenthic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus atromarginatus,Deepwater sharks,Deepwater,150,450,99,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus granulosus,Deepwater sharks,Deepwater,50,1500,176,medium,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus harrissoni,Deepwater sharks,Deepwater,275,1050,112,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus isodon,Deepwater sharks,Deepwater,435,770,108,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus lesliei,Deepwater sharks,Deepwater,340,610,99,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus longipinnis,Deepwater sharks,Deepwater,330,460,93,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus moluccensis,Deepwater sharks,Deepwater,128,823,101.7,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus seychellorum,Deepwater sharks,Deepwater,490,1000,79.7,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus squamosus,Deepwater sharks,Deepwater,0,3366,166,medium,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus tessellatus,Deepwater sharks,Deepwater,260,732,100,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus uyato,Deepwater sharks,Deepwater,50,1400,128,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Centrophorus,Centrophorus westraliensis,Deepwater sharks,Deepwater,616,750,92,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Deania,Deania calcea,Deepwater sharks,Deepwater,60,1504,162,medium,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Deania,Deania hystricosa,Deepwater sharks,Deepwater,NA,NA,NA,NA,NA
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Deania,Deania profundorum,Deepwater sharks,Deepwater,205,1800,97,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Centrophoridae,Deania,Deania quadrispinosa,Deepwater sharks,Deepwater,150,1360,118,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Dalatiidae,Dalatias,Dalatias licha,Deepwater sharks,Deepwater,37,1794,182,medium,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Dalatiidae,Euprotomicroides,Euprotomicroides zantedeschia,Deepwater sharks,Deepwater,0,641,41.35,small,microoceanic
+Elasmobranchii,Selachimorpha,Squaliformes,Dalatiidae,Euprotomicrus,Euprotomicrus bispinatus,Deepwater sharks,Deepwater,0,1800,27,small,microoceanic
+Elasmobranchii,Selachimorpha,Squaliformes,Dalatiidae,Isistius,Isistius brasiliensis,Deepwater sharks,Deepwater,0,3700,56,small,microoceanic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Aculeola,Aculeola nigra,Deepwater sharks,Deepwater,113,735,67,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Centroscyllium,Centroscyllium excelsum,Deepwater sharks,Deepwater,800,1000,68,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Centroscyllium,Centroscyllium fabricii,Deepwater sharks,Deepwater,180,2250,107,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Centroscyllium,Centroscyllium granulatum,Deepwater sharks,Deepwater,100,610,62,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Centroscyllium,Centroscyllium kamoharai,Deepwater sharks,Deepwater,500,1225,63,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Centroscyllium,Centroscyllium nigrum,Deepwater sharks,Deepwater,269,1143,51,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Centroscyllium,Centroscyllium ornatum,Deepwater sharks,Deepwater,521,1262,51.4,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Centroscyllium,Centroscyllium ritteri,Deepwater sharks,Deepwater,150,1100,48.5,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus alphus,Deepwater sharks,Deepwater,472,792,39,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus benchleyi,Deepwater sharks,Deepwater,836,1443,52,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus bigelowi,Deepwater sharks,Deepwater,0,1000,73,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus brachyurus,Deepwater sharks,Deepwater,100,696,50,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus bullisi,Deepwater sharks,Deepwater,275,824,30,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus burgessi,Deepwater sharks,Deepwater,300,600,40.6,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus carteri,Deepwater sharks,Deepwater,283,596,21,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus caudistigmus,Deepwater sharks,Deepwater,638,793,34,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus compagnoi,Deepwater sharks,Deepwater,383,1300,67,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus decacuspidatus,Deepwater sharks,Deepwater,512,692,29.2,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus dianthus,Deepwater sharks,Deepwater,200,880,41,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus dislineatus,Deepwater sharks,Deepwater,590,802,45,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus evansi,Deepwater sharks,Deepwater,430,550,30,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus fusus,Deepwater sharks,Deepwater,430,550,29,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus gracilispinis,Deepwater sharks,Deepwater,25,1200,33,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus granulosus,Deepwater sharks,Deepwater,220,1500,88,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus hillianus,Deepwater sharks,Deepwater,180,717,30,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus joungi,Deepwater sharks,Deepwater,300,1000,45.6,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus lailae,Deepwater sharks,Deepwater,314,384,36.8,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus litvinovi,Deepwater sharks,Deepwater,630,1100,61,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus lucifer,Deepwater sharks,Deepwater,158,1357,47,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus marshae,Deepwater sharks,Deepwater,322,337,23.4,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus molleri,Deepwater sharks,Deepwater,238,655,46,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus perryi,Deepwater sharks,Deepwater,189,598,21,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus polli,Deepwater sharks,Deepwater,300,1000,24.1,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus princeps,Deepwater sharks,Deepwater,350,2213,96,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus pseudosqualiolus,Deepwater sharks,Deepwater,668,1170,45,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus pusillus,Deepwater sharks,Deepwater,0,1120,50.2,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus pycnolepis,Deepwater sharks,Deepwater,330,763,45,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus robinsi,Deepwater sharks,Deepwater,411,786,34,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus samadiae,Deepwater sharks,Deepwater,340,785,27.7,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus schultzi,Deepwater sharks,Deepwater,220,915,30,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus sculptus,Deepwater sharks,Deepwater,240,1023,53,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus sentosus,Deepwater sharks,Deepwater,200,500,27,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus sheikoi,Deepwater sharks,Deepwater,340,370,43.2,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus spinax,Deepwater sharks,Deepwater,70,2490,55,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus splendidus,Deepwater sharks,Deepwater,100,300,30.7,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus unicolor,Deepwater sharks,Deepwater,120,1500,79,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus viator,Deepwater sharks,Deepwater,830,1610,58,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus villosus,Deepwater sharks,Deepwater,406,911,65.2,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Etmopterus,Etmopterus virens,Deepwater sharks,Deepwater,196,915,26,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Etmopteridae,Trigonognathus,Trigonognathus kabeyai,Deepwater sharks,Deepwater,150,1000,53.9,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Oxynotidae,Oxynotus,Oxynotus bruniensis,Deepwater sharks,Deepwater,46,1067,76,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Oxynotidae,Oxynotus,Oxynotus caribbaeus,Deepwater sharks,Deepwater,218,579,49,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Oxynotidae,Oxynotus,Oxynotus centrina,Deepwater sharks,Deepwater,35,805,150,medium,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Oxynotidae,Oxynotus,Oxynotus japonicus,Deepwater sharks,Deepwater,150,350,65,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Oxynotidae,Oxynotus,Oxynotus paradoxus,Deepwater sharks,Deepwater,267,1104,118,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Centroscymnus,Centroscymnus coelolepis,Deepwater sharks,Deepwater,128,3675,137,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Centroscymnus,Centroscymnus macracanthus,Deepwater sharks,Deepwater,219,1550,69,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Centroscymnus,Centroscymnus owstonii,Deepwater sharks,Deepwater,150,1549,120,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Centroselachus,Centroselachus crepidater,Deepwater sharks,Deepwater,200,2080,105,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Scymnodalatias,Scymnodalatias albicauda,Deepwater sharks,Deepwater,0,572,111,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Scymnodalatias,Scymnodalatias garricki,Deepwater sharks,Deepwater,300,580,40.6,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Scymnodalatias,Scymnodalatias sherwoodi,Deepwater sharks,Deepwater,400,500,85,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Scymnodon,Scymnodon plunketi,Deepwater sharks,Deepwater,180,1550,170,medium,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Scymnodon,Scymnodon ringens,Deepwater sharks,Deepwater,200,1600,110,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Somniosus,Somniosus antarcticus,Deepwater sharks,Deepwater,0,1440,600,large,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Somniosus,Somniosus longus,Deepwater sharks,Deepwater,250,1116,143,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Somniosus,Somniosus microcephalus,Deepwater sharks,Deepwater,0,2647,640,large,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Somniosus,Somniosus pacificus,Deepwater sharks,Deepwater,0,2008,700,large,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Somniosus,Somniosus rostratus,Deepwater sharks,Deepwater,180,2734,131.4,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Zameus,Scymnodon ichiharai,Deepwater sharks,Deepwater,450,830,151,medium,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Zameus,Zameus squamulosus,Deepwater sharks,Deepwater,0,1511,109.4,small,bathic
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Cirrhigaleus,Cirrhigaleus asper,Deepwater sharks,Deepwater,73,600,123.5,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Cirrhigaleus,Cirrhigaleus australis,Deepwater sharks,Deepwater,360,640,123,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Cirrhigaleus,Cirrhigaleus barbifer,Deepwater sharks,Deepwater,146,640,126,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus albicaudus,Deepwater sharks,Deepwater,195,421,61,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus albifrons,Deepwater sharks,Deepwater,131,450,86,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus altipinnis,Deepwater sharks,Deepwater,298,305,71.5,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus bahiensis,Deepwater sharks,Deepwater,599,599,69,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus bassi,Deepwater sharks,Deepwater,159,591,110,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus blainville,Deepwater sharks,Deepwater,15,1500,92,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus boretzi,Deepwater sharks,Deepwater,100,525,71,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus bucephalus,Deepwater sharks,Deepwater,448,880,90,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus chloroculus,Deepwater sharks,Deepwater,216,1360,99,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus clarkae,Deepwater sharks,Deepwater,242,613,82,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus crassispinus,Deepwater sharks,Deepwater,187,300,67,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus cubensis,Deepwater sharks,Deepwater,10,731,60,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus edmundsi,Deepwater sharks,Deepwater,204,850,115,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus formosus,Deepwater sharks,Deepwater,180,790,85,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus grahami,Deepwater sharks,Deepwater,148,504,73,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus griffini,Deepwater sharks,Deepwater,15,700,110,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus hawaiiensis,Deepwater sharks,Deepwater,305,360,101,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus hemipinnis,Deepwater sharks,Deepwater,40,500,78,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus japonicus,Deepwater sharks,Deepwater,52,400,105,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus lalannei,Deepwater sharks,Deepwater,1000,1000,79,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus mahia,Deepwater sharks,Deepwater,55,500,59,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus margaretsmithae,Deepwater sharks,Deepwater,55,460,54.3,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus megalops,Deepwater sharks,Deepwater,0,732,64,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus melanurus,Deepwater sharks,Deepwater,34,480,75,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus mitsukurii,Deepwater sharks,Deepwater,4,954,112,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus montalbani,Deepwater sharks,Deepwater,154,1370,101,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus nasutus,Deepwater sharks,Deepwater,300,850,64,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus notocaudatus,Deepwater sharks,Deepwater,225,454,62,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus quasimodo,Deepwater sharks,Deepwater,100,735,85,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus rancureli,Deepwater sharks,Deepwater,320,400,77,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus raoulensis,Deepwater sharks,Deepwater,210,500,93,small,littoral
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina africana,Deepwater sharks,Deepwater,0,600,122,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina argentina,Deepwater sharks,Deepwater,20,437,120,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina caillieti,Deepwater sharks,Deepwater,363,385,32.6,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina dumeril,Deepwater sharks,Deepwater,0,1289,152,medium,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina formosa,Deepwater sharks,Deepwater,100,400,85,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina legnota,Deepwater sharks,Deepwater,NA,NA,134,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina varii,Deepwater sharks,Deepwater,195,666,132,small,squatinobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Benthobatis,Benthobatis kreffti,Deepwater sharks,Deepwater,420,530,30,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Benthobatis,Benthobatis marcida,Deepwater sharks,Deepwater,275,922,50,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Benthobatis,Benthobatis moresbyi,Deepwater sharks,Deepwater,787,1071,40,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Benthobatis,Benthobatis yangi,Deepwater sharks,Deepwater,300,300,37,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine rierai,Deepwater sharks,Deepwater,169,500,30,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcinops lasti,Deepwater sharks,Deepwater,178,333,37,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcinops nelsoni,Deepwater sharks,Deepwater,140,540,35,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcinops tasmaniensis,Deepwater sharks,Deepwater,1,640,47,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narkidae,Heteronarce,Heteronarce garmani,Deepwater sharks,Deepwater,73,329,30,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narkidae,Heteronarce,Heteronarce mollis,Deepwater sharks,Deepwater,73,346,25.5,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narkidae,Typhlonarke,Typhlonarke aysoni,Deepwater sharks,Deepwater,0,800,45,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Tetronarce,Tetronarce cowleyi,Deepwater sharks,Deepwater,110,457,113,large,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Tetronarce,Tetronarce formosa,Deepwater sharks,Deepwater,1,300,89,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Tetronarce,Tetronarce occidentalis,Deepwater sharks,Deepwater,0,530,154,large,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Tetronarce,Tetronarce puelcha,Deepwater sharks,Deepwater,10,600,120,large,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Tetronarce,Tetronarce tokionis,Deepwater sharks,Deepwater,200,1100,114,large,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Tetronarce,Tetronarce tremens,Deepwater sharks,Deepwater,0,700,90,medium,torpedobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus falciformis,Epipelagic sharks,Pelagic,0,500,371,large,macroceanic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus galapagensis,Epipelagic sharks,Pelagic,0,286,370,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus longimanus,Epipelagic sharks,Pelagic,0,1082,350,large,macroceanic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus signatus,Epipelagic sharks,Pelagic,0,600,280,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Prionace,Prionace glauca,Epipelagic sharks,Pelagic,0,1000,380,large,macroceanic
+Elasmobranchii,Selachimorpha,Lamniformes,Alopiidae,Alopias,Alopias pelagicus,Epipelagic sharks,Pelagic,0,300,365,large,macroceanic
+Elasmobranchii,Selachimorpha,Lamniformes,Alopiidae,Alopias,Alopias superciliosus,Epipelagic sharks,Pelagic,0,723,484,large,macroceanic
+Elasmobranchii,Selachimorpha,Lamniformes,Alopiidae,Alopias,Alopias vulpinus,Epipelagic sharks,Pelagic,0,650,573,large,macroceanic
+Elasmobranchii,Selachimorpha,Lamniformes,Cetorhinidae,Cetorhinus,Cetorhinus maximus,Epipelagic sharks,Pelagic,0,1264,1973,large,macroceanic
+Elasmobranchii,Selachimorpha,Lamniformes,Lamnidae,Carcharodon,Carcharodon carcharias,Epipelagic sharks,Pelagic,0,1200,640,large,archipelagic
+Elasmobranchii,Selachimorpha,Lamniformes,Lamnidae,Isurus,Isurus oxyrinchus,Epipelagic sharks,Pelagic,0,750,445,large,macroceanic
+Elasmobranchii,Selachimorpha,Lamniformes,Lamnidae,Isurus,Isurus paucus,Epipelagic sharks,Pelagic,0,1752,427,large,macroceanic
+Elasmobranchii,Selachimorpha,Lamniformes,Lamnidae,Lamna,Lamna ditropis,Epipelagic sharks,Pelagic,0,375,350,large,macroceanic
+Elasmobranchii,Selachimorpha,Lamniformes,Lamnidae,Lamna,Lamna nasus,Epipelagic sharks,Pelagic,0,1809,357,large,macroceanic
+Elasmobranchii,Selachimorpha,Lamniformes,Megachasmidae,Megachasma,Megachasma pelagios,Epipelagic sharks,Pelagic,0,1000,900,large,macroceanic
+Elasmobranchii,Selachimorpha,Lamniformes,Mitsukurinidae,Mitsukurina,Mitsukurina owstoni,Epipelagic sharks,Pelagic,0,1300,410,large,rhynchobathic
+Elasmobranchii,Selachimorpha,Lamniformes,Pseudocarchariidae,Pseudocarcharias,Pseudocarcharias kamoharai,Epipelagic sharks,Pelagic,0,590,122,small,microoceanic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Rhincodontidae,Rhincodon,Rhincodon typus,Epipelagic sharks,Pelagic,0,1928,2000,large,macroceanic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Sphyrnidae,Eusphyra,Eusphyra blochii,Hammerhead sharks,Coastal,10,27,186,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Sphyrnidae,Sphyrna,Sphyrna corona,Hammerhead sharks,Coastal,0,100,92,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Sphyrnidae,Sphyrna,Sphyrna gilberti,Hammerhead sharks,Coastal,NA,NA,69,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Sphyrnidae,Sphyrna,Sphyrna media,Hammerhead sharks,Coastal,0,100,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Sphyrnidae,Sphyrna,Sphyrna tiburo,Hammerhead sharks,Coastal,0,90,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Sphyrnidae,Sphyrna,Sphyrna tudes,Hammerhead sharks,Coastal,5,80,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Sphyrnidae,Sphyrna,Sphyrna lewini,Hammerhead sharks,Pelagic,0,1043,420,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Sphyrnidae,Sphyrna,Sphyrna mokarran,Hammerhead sharks,Pelagic,0,300,610,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Sphyrnidae,Sphyrna,Sphyrna zygaena,Hammerhead sharks,Pelagic,0,200,400,large,littoral
+Elasmobranchii,Batoidea,Myliobatiformes,Mobulidae,Mobula,Mobula alfredi,Other,Pelagic,0,432,500,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Mobulidae,Mobula,Mobula japanica,Other,Pelagic,0,647,310,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Mobulidae,Mobula,Mobula birostris,Other,Pelagic,0,1000,700,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Mobulidae,Mobula,Mobula eregoodoo,Other,Pelagic,0,50,130,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Mobulidae,Mobula,Mobula hypostoma,Other,Pelagic,0,100,230,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Mobulidae,Mobula,Mobula kuhlii,Other,Pelagic,0,50,135,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Mobulidae,Mobula,Mobula mobular,Other,Pelagic,0,700,350,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Mobulidae,Mobula,Mobula munkiana,Other,Pelagic,0,30,110,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Mobulidae,Mobula,Mobula tarapacana,Other,Pelagic,0,1896,370,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Mobulidae,Mobula,Mobula thurstoni,Other,Pelagic,0,100,220,large,aquilopelagic
+Holocephali,Holocephalimorpha,Chimaeriformes,Callorhinchidae,Callorhinchus,Callorhinchus callorynchus,Other,Coastal,0,481,102,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Callorhinchidae,Callorhinchus,Callorhinchus capensis,Other,Coastal,0,600,120,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Callorhinchidae,Callorhinchus,Callorhinchus milii,Other,Coastal,0,227,125,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera argiloba,Other,Deepwater,370,520,91.2,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera bahamaensis,Other,Deepwater,732,1506,88.1,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera buccanigella,Other,Deepwater,495,960,86.1,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera carophila,Other,Deepwater,846,1350,103.5,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera cubana,Other,Deepwater,180,1050,80,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera didierae,Other,Deepwater,1000,1100,83,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera fulva,Other,Deepwater,780,1095,110,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera jordani,Other,Deepwater,716,780,93,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera lignaria,Other,Deepwater,400,1800,142,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera macrospina,Other,Deepwater,435,1300,75,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera monstrosa,Other,Deepwater,50,1742,150,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera notafricana,Other,Deepwater,680,1000,93,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera obscura,Other,Deepwater,450,1080,95.1,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera ogilbyi,Other,Deepwater,139,872,104,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera opalescens,Other,Deepwater,800,1975,110,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera orientalis,Other,Deepwater,560,1138,89.1,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera owstoni,Other,Deepwater,650,900,80,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera panthera,Other,Deepwater,327,1020,129,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera phantasma,Other,Deepwater,20,962,110,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Chimaera,Chimaera willwatchi,Other,Deepwater,89,1365,97.1,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus affinis,Other,Deepwater,293,2909,147,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus africanus,Other,Deepwater,303,1570,98,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus alberti,Other,Deepwater,328,1470,96,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus alphus,Other,Deepwater,630,907,48,small,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus barbouri,Other,Deepwater,250,1100,86,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus bemisi,Other,Deepwater,400,1100,111.5,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus colliei,Other,Deepwater,0,1029,63,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus erithacus,Other,Deepwater,470,1000,140.5,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus homonycteris,Other,Deepwater,400,1450,108.5,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus lusitanicus,Other,Deepwater,1600,1600,117.7,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus macrophthalmus,Other,Deepwater,300,1370,64,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus marmoratus,Other,Deepwater,548,995,80.1,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus matallanasi,Other,Deepwater,416,736,37.8,small,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus mccoskeri,Other,Deepwater,396,506,38.1,small,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus melanophasma,Other,Deepwater,30,1800,128,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus mirabilis,Other,Deepwater,450,2058,80,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus mitsukurii,Other,Deepwater,325,830,79,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus novaezealandiae,Other,Deepwater,25,950,80,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus pallidus,Other,Deepwater,883,2650,137.6,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus purpurescens,Other,Deepwater,920,1951,138,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Chimaeridae,Hydrolagus,Hydrolagus trolli,Other,Deepwater,612,2000,120.4,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Rhinochimaeridae,Harriotta,Harriotta haeckeli,Other,Deepwater,1114,2603,72,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Rhinochimaeridae,Harriotta,Harriotta raleighana,Other,Deepwater,350,2600,70,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Rhinochimaeridae,Neoharriotta,Neoharriotta carri,Other,Deepwater,90,600,120,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Rhinochimaeridae,Neoharriotta,Neoharriotta pinnata,Other,Deepwater,150,760,150,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Rhinochimaeridae,Neoharriotta,Neoharriotta pumila,Other,Deepwater,100,1120,65,medium,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Rhinochimaeridae,Rhinochimaera,Rhinochimaera africana,Other,Deepwater,430,1450,150,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Rhinochimaeridae,Rhinochimaera,Rhinochimaera atlantica,Other,Deepwater,400,1849,147,large,NA
+Holocephali,Holocephalimorpha,Chimaeriformes,Rhinochimaeridae,Rhinochimaera,Rhinochimaera pacifica,Other,Deepwater,191,1290,130,large,NA
+Elasmobranchii,Selachimorpha,Heterodontiformes,Heterodontidae,Heterodontus,Heterodontus francisci,Other,Coastal,0,152,120,small,probenthic
+Elasmobranchii,Selachimorpha,Heterodontiformes,Heterodontidae,Heterodontus,Heterodontus galeatus,Other,Coastal,0,93,150,medium,probenthic
+Elasmobranchii,Selachimorpha,Heterodontiformes,Heterodontidae,Heterodontus,Heterodontus japonicus,Other,Coastal,6,125,120,small,probenthic
+Elasmobranchii,Selachimorpha,Heterodontiformes,Heterodontidae,Heterodontus,Heterodontus mexicanus,Other,Coastal,0,250,70,small,probenthic
+Elasmobranchii,Selachimorpha,Heterodontiformes,Heterodontidae,Heterodontus,Heterodontus omanensis,Other,Coastal,72,80,61,small,probenthic
+Elasmobranchii,Selachimorpha,Heterodontiformes,Heterodontidae,Heterodontus,Heterodontus portusjacksoni,Other,Coastal,0,275,130,small,probenthic
+Elasmobranchii,Selachimorpha,Heterodontiformes,Heterodontidae,Heterodontus,Heterodontus quoyi,Other,Coastal,3,40,105,small,probenthic
+Elasmobranchii,Selachimorpha,Heterodontiformes,Heterodontidae,Heterodontus,Heterodontus ramalheira,Other,Coastal,40,305,83,small,probenthic
+Elasmobranchii,Selachimorpha,Heterodontiformes,Heterodontidae,Heterodontus,Heterodontus zebra,Other,Coastal,0,200,122,small,probenthic
+Elasmobranchii,Selachimorpha,Hexanchiformes,Hexanchidae,Notorynchus,Notorynchus cepedianus,Other,Coastal,0,570,296,large,hexanchobenthic
+Elasmobranchii,Selachimorpha,Lamniformes,Odontaspididae,Carcharias,Carcharias taurus,Other,Coastal,0,232,325,large,littoral
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Fluvitrygon,Fluvitrygon kittipongi,Other,Freshwater,0,40,37,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Fluvitrygon,Fluvitrygon oxyrhynchus,Other,Freshwater,0,40,37,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Fluvitrygon,Fluvitrygon signifer,Other,Freshwater,0,40,37,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Fonitrygon,Fontitrygon garouaensis,Other,Freshwater,0,40,36,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hemitrygon,Hemitrygon laosensis,Other,Freshwater,0,40,48,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Makararaja,Makararaja chindwinensis,Other,Freshwater,0,40,38.5,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Paratrygon,Paratrygon aiereba,Other,Freshwater,0,40,130,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Plesiotrygon,Plesiotrygon iwamae,Other,Freshwater,0,40,65,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Plesiotrygon,Plesiotrygon nana,Other,Freshwater,0,40,NA,NA,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Potamotrygon,Potamotrygon brachyura,Other,Freshwater,0,40,NA,NA,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Potamotrygon,Potamotrygon falkneri,Other,Freshwater,0,40,NA,NA,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Potamotrygon,Potamotrygon histrix,Other,Freshwater,0,40,NA,NA,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Potamotrygon,Potamotrygon magdalenae,Other,Freshwater,0,40,NA,NA,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Potamotrygon,Potamotrygon motoro,Other,Freshwater,0,40,NA,NA,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Potamotrygon,Potamotrygon scobina,Other,Freshwater,0,40,NA,NA,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Potamotrygon,Potamotrygon tatianae,Other,Freshwater,0,40,NA,NA,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Potamotrygon,Potamotrygon tigrina,Other,Freshwater,0,40,NA,NA,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Potamotrygon,Potamotrygon yepezi,Other,Freshwater,0,40,NA,NA,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Pteroplatytrygon,Pteroplatytrygon violacea,Other,Pelagic,0,381,90,medium,rajopelagic
+Elasmobranchii,Selachimorpha,Pristiophoriformes,Pristiophoridae,Pristiophoridae,Pliotrema annae,Other,Coastal,20,35,98,small,pristobenthic
+Elasmobranchii,Selachimorpha,Pristiophoriformes,Pristiophoridae,Pristiophorus,Pristiophorus cirratus,Other,Coastal,40,630,149,small,pristobenthic
+Elasmobranchii,Selachimorpha,Pristiophoriformes,Pristiophoridae,Pristiophorus,Pristiophorus nudipinnis,Other,Coastal,0,165,124,small,pristobenthic
+Elasmobranchii,Selachimorpha,Squaliformes,Dalatiidae,Heteroscymnoides,Heteroscymnoides marleyi,Other,Pelagic,0,502,37,small,microoceanic
+Elasmobranchii,Selachimorpha,Squaliformes,Dalatiidae,Isistius,Isistius plutodus,Other,Pelagic,30,2060,42,small,microoceanic
+Elasmobranchii,Selachimorpha,Squaliformes,Dalatiidae,Mollisquama,Mollisquama mississippiensis,Other,Pelagic,580,580,14,small,microoceanic
+Elasmobranchii,Selachimorpha,Squaliformes,Dalatiidae,Mollisquama,Mollisquama parini,Other,Pelagic,330,330,40,small,microoceanic
+Elasmobranchii,Selachimorpha,Squaliformes,Dalatiidae,Squaliolus,Squaliolus aliae,Other,Pelagic,0,2000,22,small,microoceanic
+Elasmobranchii,Selachimorpha,Squaliformes,Dalatiidae,Squaliolus,Squaliolus laticaudus,Other,Pelagic,10,1800,27.5,small,microoceanic
+Elasmobranchii,Selachimorpha,Squaliformes,Somniosidae,Scymnodalatias,Scymnodalatias oligodon,Other,Pelagic,0,200,26,small,bathic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina aculeata,Other,Coastal,30,500,188,medium,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina albipunctata,Other,Coastal,37,415,130,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina armata,Other,Coastal,0,400,150,medium,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina australis,Other,Coastal,0,130,152,medium,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina californica,Other,Coastal,1,205,152,medium,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina david,Other,Coastal,100,326,79,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina guggenheim,Other,Coastal,7,150,95,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina japonica,Other,Coastal,10,352,200,medium,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina nebulosa,Other,Coastal,0,330,200,medium,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina occulta,Other,Coastal,35,320,160,medium,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina oculata,Other,Coastal,10,500,160,medium,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina pseudocellata,Other,Coastal,150,312,114,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina squatina,Other,Coastal,2,150,244,medium,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina tergocellata,Other,Coastal,128,400,140,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Squatiniformes,Squatinidae,Squatina,Squatina tergocellatoides,Other,Coastal,100,300,150,medium,squatinobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Hypnidae,Hypnos,Hypnos monopterygius,Other,Coastal,1,220,62.5,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Diplobatis,Diplobatis colombiensis,Other,Coastal,30,100,17,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Diplobatis,Diplobatis guamachensis,Other,Coastal,30,185,20,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Diplobatis,Diplobatis ommata,Other,Coastal,0,94,25,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Diplobatis,Diplobatis picta,Other,Coastal,0,130,18,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Discopyge,Discopyge castelloi,Other,Coastal,35,56,31,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Discopyge,Discopyge tschudii,Other,Coastal,10,160,55,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine atzi,Other,Coastal,27,30,42,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine baliensis,Other,Coastal,60,60,31,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine bancroftii,Other,Coastal,0,37,65,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine brasiliensis,Other,Coastal,6,60,45,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine brevilabiata,Other,Coastal,41,70,32,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine entemedor,Other,Coastal,0,100,93,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine insolita,Other,Coastal,150,175,36,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine leoparda,Other,Coastal,0,33,30,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine lingula,Other,Coastal,1,200,35,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine maculata,Other,Coastal,30,80,40,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine oculifera,Other,Coastal,21,152,35,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine prodorsalis,Other,Coastal,0,100,40,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine timlei,Other,Coastal,5,50,36,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcine vermiculata,Other,Coastal,0,100,30,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcinops ornata,Other,Coastal,48,132,24,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narcinidae,Narcine,Narcinops westraliensis,Other,Coastal,10,70,29,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narkidae,Electrolux,Electrolux addisoni,Other,Coastal,6,50,52,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narkidae,Heteronarce,Heteronarce bentuviai,Other,Coastal,80,200,19,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narkidae,Narke,Narke capensis,Other,Coastal,0,180,38,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narkidae,Narke,Narke dipterygia,Other,Coastal,0,100,35,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narkidae,Narke,Narke japonica,Other,Coastal,12,140,37,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Narkidae,Temera,Temera hardwickii,Other,Coastal,0,200,15,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Platyrhinidae,Platyrhina,Platyrhina hyugaensis,Other,Coastal,1,100,43,small,rhinobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Platyrhinidae,Platyrhina,Platyrhina psomadakisi,Other,Coastal,60,106,38,small,rhinobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Platyrhinidae,Platyrhina,Platyrhina sinensis,Other,Coastal,0,50,55,medium,rhinobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Platyrhinidae,Platyrhina,Platyrhina tangi,Other,Coastal,10,100,68,medium,rhinobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Platyrhinidae,Platyrhinoidis,Platyrhinoidis triseriata,Other,Coastal,0,50,91,medium,rhinobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Tetronarce,Tetronarce californica,Other,Coastal,3,406,137,large,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Tetronarce,Tetronarce nobiliana,Other,Coastal,0,925,180,large,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Torpedo,Torpedo adenensis,Other,Coastal,25,230,40.7,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Torpedo,Torpedo andersoni,Other,Coastal,11,229,31,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Torpedo,Torpedo bauchotae,Other,Coastal,5,60,60,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Torpedo,Torpedo fuscomaculata,Other,Coastal,0,440,65,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Torpedo,Torpedo mackayana,Other,Coastal,15,50,50,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Torpedo,Torpedo marmorata,Other,Coastal,0,370,100,large,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Torpedo,Torpedo panthera,Other,Coastal,0,350,60,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Torpedo,Torpedo sinuspersici,Other,Coastal,0,150,80,medium,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Torpedo,Torpedo suessii,Other,Coastal,NA,NA,29,small,torpedobenthic
+Elasmobranchii,Batoidea,Torpediniformes,Torpedinidae,Torpedo,Torpedo torpedo,Other,Coastal,0,320,60,medium,torpedobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Glaucostegidae,Glaucostegus,Glaucostegus cemiculus,Other,Coastal,9,100,265,large,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Glaucostegidae,Glaucostegus,Glaucostegus granulatus,Other,Coastal,5,119,229,medium,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Glaucostegidae,Glaucostegus,Glaucostegus halavi,Other,Coastal,0,100,187,medium,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Glaucostegidae,Glaucostegus,Glaucostegus obtusus,Other,Coastal,1,60,93,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Glaucostegidae,Glaucostegus,Glaucostegus thouin,Other,Coastal,5,60,300,large,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Glaucostegidae,Glaucostegus,Glaucostegus typus,Other,Coastal,0,100,270,large,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Pristidae,Anoxypristis,Anoxypristis cuspidata,Other,Coastal,0,128,350,large,pristobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Pristidae,Pristis,Pristis clavata,Other,Coastal,0,20,318,large,pristobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Pristidae,Pristis,Pristis pectinata,Other,Coastal,0,122,554,large,pristobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Pristidae,Pristis,Pristis pristis,Other,Coastal,0,60,656,large,pristobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Pristidae,Pristis,Pristis zijsron,Other,Coastal,0,100,700,large,pristobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinidae,Rhina,Rhina ancylostoma,Other,Coastal,0,75,270,large,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinidae,Rhynchobatus,Rhynchobatus australiae,Other,Coastal,0,60,300,large,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinidae,Rhynchobatus,Rhynchobatus cooki,Other,Coastal,0,40,81,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinidae,Rhynchobatus,Rhynchobatus djiddensis,Other,Coastal,1,75,310,large,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinidae,Rhynchobatus,Rhynchobatus immaculatus,Other,Coastal,0,100,99,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinidae,Rhynchobatus,Rhynchobatus laevis,Other,Coastal,0,60,200,medium,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinidae,Rhynchobatus,Rhynchobatus luebberti,Other,Coastal,0,35,300,large,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinidae,Rhynchobatus,Rhynchobatus palpebratus,Other,Coastal,5,61,262,large,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinidae,Rhynchobatus,Rhynchobatus springeri,Other,Coastal,16,40,213,medium,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinidae,Rhynchorhina,Rhynchorhina mauritaniensis,Other,Coastal,0,20,275,large,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Acroteriobatus,Acroteriobatus annulatus,Other,Coastal,0,73,140,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Acroteriobatus,Acroteriobatus blochii,Other,Coastal,0,11,96,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Acroteriobatus,Acroteriobatus leucospilus,Other,Coastal,0,100,120,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Acroteriobatus,Acroteriobatus ocellatus,Other,Coastal,60,185,81,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Acroteriobatus,Acroteriobatus omanensis,Other,Coastal,0,100,60,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Acroteriobatus,Acroteriobatus salalah,Other,Coastal,10,30,78,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Acroteriobatus,Acroteriobatus variegatus,Other,Coastal,0,366,75,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Pseudobatos,Pseudobatos buthi,Other,Coastal,0,10,68.5,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Pseudobatos,Pseudobatos glaucostigmus,Other,Coastal,0,112,91,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Pseudobatos,Pseudobatos horkelii,Other,Coastal,1,150,138,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Pseudobatos,Pseudobatos lentiginosus,Other,Coastal,1,30,78,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Pseudobatos,Pseudobatos leucorhynchus,Other,Coastal,0,50,106,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Pseudobatos,Pseudobatos percellens,Other,Coastal,0,140,100,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Pseudobatos,Pseudobatos planiceps,Other,Coastal,0,50,125,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Pseudobatos,Pseudobatos prahli,Other,Coastal,0,70,90,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Pseudobatos,Pseudobatos productus,Other,Coastal,1,92,156,medium,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos albomaculatus,Other,Coastal,1,132,80,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos annandalei,Other,Coastal,0,100,95,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos austini,Other,Coastal,0,107,115,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos borneensis,Other,Coastal,0,100,90,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos holcorhynchus,Other,Coastal,68,348,127,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos hynnicephalus,Other,Coastal,20,100,100,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos irvinei,Other,Coastal,1,49,100,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos jimbaranensis,Other,Coastal,1,60,99,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos lionotus,Other,Coastal,0,73,85,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos manai,Other,Coastal,191,290,73.1,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos nudidorsalis,Other,Coastal,125,125,50,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos penggali,Other,Coastal,0,60,100,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos punctifer,Other,Coastal,1,70,90,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos ranongensis,Other,Coastal,68,106,63,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos rhinobatos,Other,Coastal,0,180,162,medium,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos sainsburyi,Other,Coastal,66,200,60,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos schlegelii,Other,Coastal,25,230,100,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Rhinobatidae,Rhinobatos,Rhinobatos whitei,Other,Coastal,0,100,84,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Trygonorrhinidae,Aptychotrema,Aptychotrema rostrata,Other,Coastal,0,220,120,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Trygonorrhinidae,Aptychotrema,Aptychotrema timorensis,Other,Coastal,120,120,58,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Trygonorrhinidae,Aptychotrema,Aptychotrema vincentiana,Other,Coastal,0,125,100,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Trygonorrhinidae,Trygonorrhina,Trygonorrhina dumerilii,Other,Coastal,30,205,146,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Trygonorrhinidae,Trygonorrhina,Trygonorrhina fasciata,Other,Coastal,1,100,120,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Trygonorrhinidae,Zapteryx,Zapteryx brevirostris,Other,Coastal,0,140,66,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Trygonorrhinidae,Zapteryx,Zapteryx exasperata,Other,Coastal,0,200,97,small,rhinobenthic
+Elasmobranchii,Batoidea,Rhinopristiformes,Trygonorrhinidae,Zapteryx,Zapteryx xyster,Other,Coastal,0,150,78,small,rhinobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Arctoraja,Arctoraja sexoculata,Skates,Coastal,150,150,81,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Atlantoraja,Atlantoraja castelnaui,Skates,Coastal,1,220,147,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Atlantoraja,Atlantoraja cyclophora,Skates,Coastal,1,321,74,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Atlantoraja,Atlantoraja platana,Skates,Coastal,1,321,91,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja magellanica,Skates,Coastal,30,600,105,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja mariposa,Skates,Coastal,90,457,76,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja panthera,Skates,Coastal,51,258,139,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Bathyraja,Bathyraja scaphiops,Skates,Coastal,30,925,117,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Irolita,Irolita waitii,Skates,Coastal,50,200,52,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Irolita,Irolita westraliensis,Skates,Coastal,142,209,43,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Psammobatis,Psammobatis bergi,Skates,Coastal,11,81,61,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Psammobatis,Psammobatis extenta,Skates,Coastal,13,160,35,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Psammobatis,Psammobatis lentiginosa,Skates,Coastal,28,170,55,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Psammobatis,Psammobatis normani,Skates,Coastal,30,360,58,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Psammobatis,Psammobatis rudis,Skates,Coastal,30,475,53,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Psammobatis,Psammobatis rutrum,Skates,Coastal,31,150,32,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Rioraja,Rioraja agassizii,Skates,Coastal,5,600,71,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Sympterygia,Sympterygia acuta,Skates,Coastal,0,190,62,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Sympterygia,Sympterygia bonapartii,Skates,Coastal,0,500,88,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Sympterygia,Sympterygia brevicaudata,Skates,Coastal,1,100,55,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Arhynchobatidae,Sympterygia,Sympterygia lima,Skates,Coastal,1,80,65,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Amblyraja,Amblyraja radiata,Skates,Coastal,6,1540,111,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Beringraja,Beringraja binoculata,Skates,Coastal,3,800,290,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Beringraja,Beringraja cortezensis,Skates,Coastal,15,90,39,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Beringraja,Beringraja pulchra,Skates,Coastal,5,700,115,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Beringraja,Beringraja rhina,Skates,Coastal,10,1070,204,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Beringraja,Beringraja stellulata,Skates,Coastal,1,730,71.7,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dentiraja,Dentiraja flindersi,Skates,Coastal,27,54,33,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dentiraja,Dentiraja lemprieri,Skates,Coastal,1,170,55,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dentiraja australis,Skates,Coastal,20,325,55,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dentiraja confusa,Skates,Coastal,20,120,70,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dentiraja endeavouri,Skates,Coastal,110,370,37,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dentiraja falloarga,Skates,Coastal,60,255,49,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus argentinensis,Skates,Coastal,85,142,125,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus batis,Skates,Coastal,10,1500,143,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus brevicaudatus,Skates,Coastal,25,350,119,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus chilensis,Skates,Coastal,1,600,210,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus chinensis,Skates,Coastal,20,80,68,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus intermedius,Skates,Coastal,0,1500,254,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus kwangtungensis,Skates,Coastal,20,108,50,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus laevis,Skates,Coastal,0,788,163,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus maugeanus,Skates,Coastal,0,10,84,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Dipturus,Dipturus olseni,Skates,Coastal,55,384,69,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Hongeo,Hongeo koreana,Skates,Coastal,30,80,84,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja circularis,Skates,Coastal,10,800,120,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja erinacea,Skates,Coastal,10,914,62,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja naevus,Skates,Coastal,12,900,72,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Leucoraja,Leucoraja ocellata,Skates,Coastal,4,723,113,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei acutispina,Skates,Coastal,25,150,45,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei arafurensis,Skates,Coastal,179,298,50,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei boesemani,Skates,Coastal,20,175,55,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei cairae,Skates,Coastal,65,150,39,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei hollandi,Skates,Coastal,67,87,45,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei kenojei,Skates,Coastal,20,230,65,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei meerdervoortii,Skates,Coastal,30,150,38,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei mengae,Skates,Coastal,NA,NA,30,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Okamejei schmidti,Skates,Coastal,20,60,52,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Okamejei,Raja pita,Skates,Coastal,15,15,46,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Orbiraja,Orbiraja jensenae,Skates,Coastal,110,118,53,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Orbiraja,Orbiraja powelli,Skates,Coastal,17,462,53,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja asterias,Skates,Coastal,2,700,76,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja brachyura,Skates,Coastal,10,900,120,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja clavata,Skates,Coastal,7,1020,130,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja herwigi,Skates,Coastal,55,102,55,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja maderensis,Skates,Coastal,5,150,80,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja microocellata,Skates,Coastal,0,112,103,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja miraletus,Skates,Coastal,10,556,60,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja montagui,Skates,Coastal,8,800,80,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja ocellifera,Skates,Coastal,15,105,49,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja parva,Skates,Coastal,10,300,63,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja radula,Skates,Coastal,1,350,80,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja straeleni,Skates,Coastal,0,930,91,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Raja,Raja undulata,Skates,Coastal,4,200,114,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rostroraja,Rostroraja ackleyi,Skates,Coastal,30,385,41,small,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rostroraja,Rostroraja alba,Skates,Coastal,10,800,240,large,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rostroraja,Rostroraja cervigoni,Skates,Coastal,35,175,51,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rostroraja,Rostroraja eglanteria,Skates,Coastal,0,330,84,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rostroraja,Rostroraja equatorialis,Skates,Coastal,20,200,88,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rostroraja,Rostroraja texana,Skates,Coastal,5,185,63,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Rostroraja,Rostroraja velezi,Skates,Coastal,30,300,83,medium,rajobenthic
+Elasmobranchii,Batoidea,Rajiformes,Rajidae,Spiniraja,Spiniraja whitleyi,Skates,Coastal,0,345,201,large,rajobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Brachaeluridae,Brachaelurus,Brachaelurus colcloughi,Other,Coastal,4,217,85,small,probenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Brachaeluridae,Brachaelurus,Brachaelurus waddi,Other,Coastal,0,140,120,small,probenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Ginglymostomatidae,Ginglymostoma,Ginglymostoma cirratum,Other,Coastal,0,130,308,large,probenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Ginglymostomatidae,Ginglymostoma,Ginglymostoma unami,Other,Coastal,1,13,280,large,probenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Ginglymostomatidae,Nebrius,Nebrius ferrugineus,Other,Coastal,0,70,320,large,probenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Ginglymostomatidae,Pseudoginglymostoma,Pseudoginglymostoma brevicaudatum,Other,Coastal,0,30,75,small,probenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Chiloscyllium,Chiloscyllium arabicum,Other,Coastal,2,100,80,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Chiloscyllium,Chiloscyllium burmensis,Other,Coastal,29,33,57.5,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Chiloscyllium,Chiloscyllium caeruleopunctatum,Other,Coastal,0,50,67,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Chiloscyllium,Chiloscyllium griseum,Other,Coastal,5,100,77,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Chiloscyllium,Chiloscyllium hasselti,Other,Coastal,0,12,88,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Chiloscyllium,Chiloscyllium indicum,Other,Coastal,0,90,65,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Chiloscyllium,Chiloscyllium plagiosum,Other,Coastal,0,50,95,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Chiloscyllium,Chiloscyllium punctatum,Other,Coastal,0,85,132,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Hemiscyllium,Hemiscyllium freycineti,Other,Coastal,0,10,68,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Hemiscyllium,Hemiscyllium galei,Other,Coastal,2,25,57,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Hemiscyllium,Hemiscyllium hallstromi,Other,Coastal,0,30,77,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Hemiscyllium,Hemiscyllium halmahera,Other,Coastal,5,10,79,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Hemiscyllium,Hemiscyllium henryi,Other,Coastal,3,30,82,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Hemiscyllium,Hemiscyllium michaeli,Other,Coastal,2,20,70,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Hemiscyllium,Hemiscyllium ocellatum,Other,Coastal,0,50,107,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Hemiscyllium,Hemiscyllium strahani,Other,Coastal,1,18,73,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Hemiscyllidae,Hemiscyllium,Hemiscyllium trispeculare,Other,Coastal,0,30,79,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Eucrossorhinus,Eucrossorhinus dasypogon,Other,Coastal,5,50,125,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Orectolobus,Orectolobus floridus,Other,Coastal,42,85,75,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Orectolobus,Orectolobus halei,Other,Coastal,0,195,206,medium,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Orectolobus,Orectolobus hutchinsi,Other,Coastal,5,105,149,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Orectolobus,Orectolobus japonicus,Other,Coastal,0,200,118,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Orectolobus,Orectolobus leptolineatus,Other,Coastal,0,100,120,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Orectolobus,Orectolobus maculatus,Other,Coastal,0,218,320,large,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Orectolobus,Orectolobus ornatus,Other,Coastal,5,100,120,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Orectolobus,Orectolobus parvimaculatus,Other,Coastal,9,135,94.3,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Orectolobus,Orectolobus reticulatus,Other,Coastal,0,20,52,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Orectolobus,Orectolobus wardi,Other,Coastal,1,3,63,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Orectolobidae,Sutorectus,Sutorectus tentaculatus,Other,Coastal,0,35,92,small,squatinobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Parascyllidae,Cirrhoscyllium,Cirrhoscyllium expolitum,Other,Coastal,183,190,33.5,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Parascyllidae,Cirrhoscyllium,Cirrhoscyllium formosanum,Other,Coastal,110,320,43,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Parascyllidae,Parascyllium,Parascyllium collare,Other,Coastal,20,230,87,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Parascyllidae,Parascyllium,Parascyllium elongatum,Other,Coastal,50,50,42,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Parascyllidae,Parascyllium,Parascyllium ferrugineum,Other,Coastal,5,150,80,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Parascyllidae,Parascyllium,Parascyllium variolatum,Other,Coastal,0,180,91,small,leptobenthic
+Elasmobranchii,Selachimorpha,Orectolobiformes,Stegostomatidae,Stegostoma,Stegostoma tigrinum,Other,Coastal,0,62,246,medium,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Atelomycterus,Atelomycterus baliensis,"Smoothhounds, dogfish, tope",Coastal,0,100,47,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Atelomycterus,Atelomycterus erdmanni,"Smoothhounds, dogfish, tope",Coastal,3,62,51,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Atelomycterus,Atelomycterus fasciatus,"Smoothhounds, dogfish, tope",Coastal,27,122,45,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Atelomycterus,Atelomycterus macleayi,"Smoothhounds, dogfish, tope",Coastal,0,4,60,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Atelomycterus,Atelomycterus marmoratus,"Smoothhounds, dogfish, tope",Coastal,5,100,70,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Atelomycterus,Atelomycterus marnkalha,"Smoothhounds, dogfish, tope",Coastal,11,74,48.4,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Aulohalaelurus,Aulohalaelurus kanakorum,"Smoothhounds, dogfish, tope",Coastal,49,49,78.5,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Aulohalaelurus,Aulohalaelurus labiosus,"Smoothhounds, dogfish, tope",Coastal,0,4,67,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium laticeps,"Smoothhounds, dogfish, tope",Coastal,0,650,100,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium sarawakensis,"Smoothhounds, dogfish, tope",Coastal,82,200,44,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Cephaloscyllium,Cephaloscyllium ventriosum,"Smoothhounds, dogfish, tope",Coastal,5,457,110,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Poroderma,Poroderma africanum,"Smoothhounds, dogfish, tope",Coastal,0,108,109,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Poroderma,Poroderma pantherinum,"Smoothhounds, dogfish, tope",Coastal,0,274,77,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Schroederichthys,Schroederichthys bivius,"Smoothhounds, dogfish, tope",Coastal,12,359,82,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Schroederichthys,Schroederichthys chilensis,"Smoothhounds, dogfish, tope",Coastal,1,50,70,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus canicula,"Smoothhounds, dogfish, tope",Coastal,1,800,100,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus cervigoni,"Smoothhounds, dogfish, tope",Coastal,150,260,76,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,Scyliorhinus stellaris,"Smoothhounds, dogfish, tope",Coastal,1,380,162,medium,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Furgaleus,Furgaleus macki,"Smoothhounds, dogfish, tope",Coastal,7,220,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Galeorhinus,Galeorhinus galeus,"Smoothhounds, dogfish, tope",Coastal,0,826,96,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Gogolia,Gogolia filewoodi,"Smoothhounds, dogfish, tope",Coastal,73,73,73.9,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Hemitriakis,Hemitriakis complicofasciata,"Smoothhounds, dogfish, tope",Coastal,90,100,120,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Hemitriakis,Hemitriakis falcata,"Smoothhounds, dogfish, tope",Coastal,110,200,80,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Hemitriakis,Hemitriakis indroyonoi,"Smoothhounds, dogfish, tope",Coastal,60,100,120,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Hemitriakis,Hemitriakis japanica,"Smoothhounds, dogfish, tope",Coastal,1,100,108,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Hemitriakis,Hemitriakis leucoperiptera,"Smoothhounds, dogfish, tope",Coastal,1,48,96,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Hypogaleus,Hypogaleus hyugaensis,"Smoothhounds, dogfish, tope",Coastal,40,480,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus albipinnis,"Smoothhounds, dogfish, tope",Coastal,30,281,118,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus antarcticus,"Smoothhounds, dogfish, tope",Coastal,1,350,185.2,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus asterias,"Smoothhounds, dogfish, tope",Coastal,1,199,140,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus californicus,"Smoothhounds, dogfish, tope",Coastal,2,265,160,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus canis,"Smoothhounds, dogfish, tope",Coastal,0,808,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus dorsalis,"Smoothhounds, dogfish, tope",Coastal,20,200,66,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus fasciatus,"Smoothhounds, dogfish, tope",Coastal,0,500,177,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus griseus,"Smoothhounds, dogfish, tope",Coastal,1,260,135,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus henlei,"Smoothhounds, dogfish, tope",Coastal,0,281,100,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus higmani,"Smoothhounds, dogfish, tope",Coastal,1,1463,64,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus lenticulatus,"Smoothhounds, dogfish, tope",Coastal,1,220,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus lunulatus,"Smoothhounds, dogfish, tope",Coastal,9,200,175,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus manazo,"Smoothhounds, dogfish, tope",Coastal,1,360,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus mento,"Smoothhounds, dogfish, tope",Coastal,16,50,141,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus minicanis,"Smoothhounds, dogfish, tope",Coastal,71,183,72,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus mosis,"Smoothhounds, dogfish, tope",Coastal,20,250,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus mustelus,"Smoothhounds, dogfish, tope",Coastal,0,800,164,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus norrisi,"Smoothhounds, dogfish, tope",Coastal,0,260,98,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus palumbes,"Smoothhounds, dogfish, tope",Coastal,0,443,113,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus punctulatus,"Smoothhounds, dogfish, tope",Coastal,0,300,122,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus ravidus,"Smoothhounds, dogfish, tope",Coastal,100,300,78,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus schmitti,"Smoothhounds, dogfish, tope",Coastal,2,195,109,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus sinusmexicanus,"Smoothhounds, dogfish, tope",Coastal,36,229,140,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus stevensi,"Smoothhounds, dogfish, tope",Coastal,121,735,103,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus whitneyi,"Smoothhounds, dogfish, tope",Coastal,16,211,118,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Mustelus,Mustelus widodoi,"Smoothhounds, dogfish, tope",Coastal,60,120,110,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Scylliogaleus,Scylliogaleus quecketti,"Smoothhounds, dogfish, tope",Coastal,0,73,102,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Triakis,Triakis acutipinna,"Smoothhounds, dogfish, tope",Coastal,50,200,110,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Triakis,Triakis maculata,"Smoothhounds, dogfish, tope",Coastal,10,200,180,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Triakis,Triakis megalopterus,"Smoothhounds, dogfish, tope",Coastal,0,50,208,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Triakis,Triakis scyllium,"Smoothhounds, dogfish, tope",Coastal,30,150,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Triakidae,Triakis,Triakis semifasciata,"Smoothhounds, dogfish, tope",Coastal,0,156,198,medium,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus acanthias,"Smoothhounds, dogfish, tope",Coastal,0,1978,200,medium,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus acutipinnis,"Smoothhounds, dogfish, tope",Coastal,0,1500,95.2,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus brevirostris,"Smoothhounds, dogfish, tope",Coastal,40,163,58,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus lobularis,"Smoothhounds, dogfish, tope",Coastal,100,500,73,small,littoral
+Elasmobranchii,Selachimorpha,Squaliformes,Squalidae,Squalus,Squalus suckleyi,"Smoothhounds, dogfish, tope",Coastal,0,1236,130,small,littoral
+Elasmobranchii,Batoidea,Myliobatiformes,Aetobatidae,Aetobatus,Aetobatus flagellum,Tropical rays,Coastal,0,40,90,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Aetobatidae,Aetobatus,Aetobatus laticeps,Tropical rays,Coastal,0,100,230,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Aetobatidae,Aetobatus,Aetobatus narinari,Tropical rays,Coastal,0,60,226,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Aetobatidae,Aetobatus,Aetobatus narutobiei,Tropical rays,Coastal,0,60,150,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Aetobatidae,Aetobatus,Aetobatus ocellatus,Tropical rays,Coastal,0,40,330,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Bathytoshia,Bathytoshia brevicaudata,Tropical rays,Coastal,5,480,210,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Bathytoshia,Bathytoshia centroura,Tropical rays,Coastal,0,274,220,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Bathytoshia,Bathytoshia lata,Tropical rays,Coastal,1,800,260,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Brevitrygon,Brevitrygon heterura,Tropical rays,Coastal,0,50,24,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Brevitrygon,Brevitrygon imbricata,Tropical rays,Coastal,3,55,29,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Brevitrygon,Brevitrygon javaensis,Tropical rays,Coastal,0,100,24,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Brevitrygon,Brevitrygon walga,Tropical rays,Coastal,0,50,23,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Dasyatis,Dasyatis chrysonota,Tropical rays,Coastal,1,110,75,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Dasyatis,Dasyatis hypostigma,Tropical rays,Coastal,2,80,58,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Dasyatis,Dasyatis marmorata,Tropical rays,Coastal,0,100,75,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Dasyatis,Dasyatis pastinaca,Tropical rays,Coastal,1,200,140,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Dasyatis,Dasyatis tortonesei,Tropical rays,Coastal,1,100,84,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Fonitrygon,Fontitrygon colarensis,Tropical rays,Coastal,6,40,165,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Fonitrygon,Fontitrygon geijskesi,Tropical rays,Coastal,5,30,150,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Fonitrygon,Fontitrygon margarita,Tropical rays,Coastal,0,60,78,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Fonitrygon,Fontitrygon margaritella,Tropical rays,Coastal,0,60,34,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Fonitrygon,Fontitrygon ukpam,Tropical rays,Coastal,0,40,120,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hemitrygon,Hemitrygon akajei,Tropical rays,Coastal,0,100,90,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hemitrygon,Hemitrygon bennetti,Tropical rays,Coastal,NA,NA,NA,NA,NA
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hemitrygon,Hemitrygon fluviorum,Tropical rays,Coastal,0,49,93,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hemitrygon,Hemitrygon izuensis,Tropical rays,Coastal,10,25,73,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hemitrygon,Hemitrygon laevigata,Tropical rays,Coastal,1,60,37,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hemitrygon,Hemitrygon longicauda,Tropical rays,Coastal,0,40,37,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hemitrygon,Hemitrygon navarrae,Tropical rays,Coastal,0,100,38,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hemitrygon,Hemitrygon parvonigra,Tropical rays,Coastal,60,185,52,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hemitrygon,Hemitrygon sinensis,Tropical rays,Coastal,0,100,40,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hemitrygon,Hemitrygon yemenensis,Tropical rays,Coastal,0,50,22,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Himantura,Himantura australis,Tropical rays,Coastal,0,45,183,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Himantura,Himantura leoparda,Tropical rays,Coastal,1,70,140,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Himantura,Himantura marginata,Tropical rays,Coastal,NA,NA,NA,NA,NA
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Himantura,Himantura uarnak,Tropical rays,Coastal,0,50,160,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Himantura,Himantura undulata,Tropical rays,Coastal,1,70,130,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hypanus,Hypanus americanus,Tropical rays,Coastal,0,100,150,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hypanus,Hypanus berthalutzae,Tropical rays,Coastal,0,100,150,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hypanus,Hypanus dipterurus,Tropical rays,Coastal,0,150,122,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hypanus,Hypanus guttatus,Tropical rays,Coastal,0,35,200,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hypanus,Hypanus longus,Tropical rays,Coastal,0,90,180,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hypanus,Hypanus marianae,Tropical rays,Coastal,0,30,31,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hypanus,Hypanus rudis,Tropical rays,Coastal,30,30,198,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hypanus,Hypanus sabinus,Tropical rays,Coastal,0,25,45,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Hypanus,Hypanus say,Tropical rays,Coastal,0,40,78,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Maculabatis,Maculabatis ambigua,Tropical rays,Coastal,0,100,90,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Maculabatis,Maculabatis arabica,Tropical rays,Coastal,0,100,61,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Maculabatis,Maculabatis astra,Tropical rays,Coastal,1,141,180,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Maculabatis,Maculabatis bineeshi,Tropical rays,Coastal,0,100,66,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Maculabatis,Maculabatis gerrardi,Tropical rays,Coastal,0,75,116,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Maculabatis,Maculabatis macrura,Tropical rays,Coastal,0,60,85,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Maculabatis,Maculabatis pastinacoides,Tropical rays,Coastal,0,30,86,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Maculabatis,Maculabatis randalli,Tropical rays,Coastal,0,60,62,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Maculabatis,Maculabatis toshi,Tropical rays,Coastal,0,140,74,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Megatrygon,Megatrygon microps,Tropical rays,Coastal,0,200,222,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Neotrygon,Neotrygon annotata,Tropical rays,Coastal,10,62,45,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Neotrygon,Neotrygon australiae,Tropical rays,Coastal,25,90,38,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Neotrygon,Neotrygon caeruleopunctata,Tropical rays,Coastal,0,100,47,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Neotrygon,Neotrygon kuhlii,Tropical rays,Coastal,0,170,30,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Neotrygon,Neotrygon leylandi,Tropical rays,Coastal,5,200,27,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Neotrygon,Neotrygon ningalooensis,Tropical rays,Coastal,0,5,30,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Neotrygon,Neotrygon orientalis,Tropical rays,Coastal,0,100,38,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Neotrygon,Neotrygon picta,Tropical rays,Coastal,5,100,32,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Neotrygon,Neotrygon trigonoides,Tropical rays,Coastal,5,50,47,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Neotrygon,Neotrygon varidens,Tropical rays,Coastal,0,100,33,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Pastinachus,Pastinachus ater,Tropical rays,Coastal,0,60,200,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Pastinachus,Pastinachus gracilicaudus,Tropical rays,Coastal,1,50,83,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Pastinachus,Pastinachus sephen,Tropical rays,Coastal,0,60,89,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Pastinachus,Pastinachus solocirostris,Tropical rays,Coastal,0,30,72,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Pastinachus,Pastinachus stellurostris,Tropical rays,Coastal,0,40,43,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Pateobatis,Pateobatis bleekeri,Tropical rays,Coastal,0,40,119,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Pateobatis,Pateobatis fai,Tropical rays,Coastal,0,200,186,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Pateobatis,Pateobatis hortlei,Tropical rays,Coastal,0,10,70,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Pateobatis,Pateobatis jenkinsii,Tropical rays,Coastal,5,90,150,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Pateobatis,Pateobatis uarnacoides,Tropical rays,Coastal,0,75,119,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Taeniura,Taeniura lessoni,Tropical rays,Coastal,0,20,22,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Taeniura,Taeniura lymma,Tropical rays,Coastal,0,50,25,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Taeniurops,Taeniurops grabatus,Tropical rays,Coastal,0,450,112,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Taeniurops,Taeniurops meyeni,Tropical rays,Coastal,0,439,180,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Telatrygon,Telatrygon acutirostra,Tropical rays,Coastal,53,142,129,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Telatrygon,Telatrygon biasa,Tropical rays,Coastal,0,40,29,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Telatrygon,Telatrygon crozieri,Tropical rays,Coastal,0,100,40,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Telatrygon,Telatrygon zugei,Tropical rays,Coastal,0,100,29,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Urogymnus,Urogymnus acanthobothrium,Tropical rays,Coastal,0,60,161,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Urogymnus,Urogymnus asperrimus,Tropical rays,Coastal,0,30,115,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Urogymnus,Urogymnus dalyensis,Tropical rays,Coastal,0,15,124,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Urogymnus,Urogymnus granulatus,Tropical rays,Coastal,0,85,141,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Urogymnus,Urogymnus lobistoma,Tropical rays,Coastal,0,30,100,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Dasyatidae,Urogymnus,Urogymnus polylepis,Tropical rays,Coastal,0,40,223,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura altavela,Tropical rays,Coastal,0,150,220,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura australis,Tropical rays,Coastal,0,250,94,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura crebripunctata,Tropical rays,Coastal,0,30,81,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura japonica,Tropical rays,Coastal,0,27,145,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura lessae,Tropical rays,Coastal,0,60,89.9,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura marmorata,Tropical rays,Coastal,0,94,125,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura micrura,Tropical rays,Coastal,0,55,80,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura natalensis,Tropical rays,Coastal,0,75,250,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura poecilura,Tropical rays,Coastal,0,75,104,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura sereti,Tropical rays,Coastal,0,60,75,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura tentaculata,Tropical rays,Coastal,0,80,85,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Gymnuridae,Gymnura,Gymnura zonura,Tropical rays,Coastal,0,40,108,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Aetomylaeus,Aetomylaeus asperrimus,Tropical rays,Coastal,1,50,79,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Aetomylaeus,Aetomylaeus bovinus,Tropical rays,Coastal,0,150,222,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Aetomylaeus,Aetomylaeus caeruleofasciatus,Tropical rays,Coastal,8,117,59,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Aetomylaeus,Aetomylaeus maculatus,Tropical rays,Coastal,0,60,100,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Aetomylaeus,Aetomylaeus milvus,Tropical rays,Coastal,0,100,123,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Aetomylaeus,Aetomylaeus nichofii,Tropical rays,Coastal,0,115,72,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Aetomylaeus,Aetomylaeus vespertilio,Tropical rays,Coastal,0,110,240,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Aetomylaeus,Aetomylaeus wafickii,Tropical rays,Coastal,NA,NA,NA,NA,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis aquila,Tropical rays,Coastal,0,537,260,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis californicus,Tropical rays,Coastal,0,108,180,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis chilensis,Tropical rays,Coastal,0,100,200,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis freminvillei,Tropical rays,Coastal,0,122,106,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis goodei,Tropical rays,Coastal,0,181,115,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis hamlyni,Tropical rays,Coastal,117,367,114,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis longirostris,Tropical rays,Coastal,0,65,95,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis peruvianus,Tropical rays,Coastal,0,50,131,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis ridens,Tropical rays,Coastal,5,47,70,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis tenuicaudatus,Tropical rays,Coastal,0,422,160,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Myliobatidae,Myliobatis,Myliobatis tobijei,Tropical rays,Coastal,0,60,102,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Styracura,Styracura pacifica,Tropical rays,Coastal,0,30,89,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Potamotrygonidae,Styracura,Styracura schmardae,Tropical rays,Coastal,0,50,180,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Rhinopteridae,Rhinoptera,Rhinoptera bonasus,Tropical rays,Coastal,0,60,110,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Rhinopteridae,Rhinoptera,Rhinoptera brasiliensis,Tropical rays,Coastal,0,20,104,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Rhinopteridae,Rhinoptera,Rhinoptera javanica,Tropical rays,Coastal,0,50,165,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Rhinopteridae,Rhinoptera,Rhinoptera jayakari,Tropical rays,Coastal,5,50,90,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Rhinopteridae,Rhinoptera,Rhinoptera marginata,Tropical rays,Coastal,0,100,200,large,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Rhinopteridae,Rhinoptera,Rhinoptera neglecta,Tropical rays,Coastal,0,50,86,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Rhinopteridae,Rhinoptera,Rhinoptera steindachneri,Tropical rays,Coastal,0,77,104,medium,aquilopelagic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Trygonoptera,Trygonoptera galba,Tropical rays,Coastal,100,210,39,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Trygonoptera,Trygonoptera imitata,Tropical rays,Coastal,0,120,80,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Trygonoptera,Trygonoptera mucosa,Tropical rays,Coastal,0,40,47,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Trygonoptera,Trygonoptera ovalis,Tropical rays,Coastal,0,45,61,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Trygonoptera,Trygonoptera personata,Tropical rays,Coastal,0,115,55,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Trygonoptera,Trygonoptera testacea,Tropical rays,Coastal,0,135,52,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus aurantiacus,Tropical rays,Coastal,10,205,40,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus bucculentus,Tropical rays,Coastal,65,265,89,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus circularis,Tropical rays,Coastal,1,120,60,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus cruciatus,Tropical rays,Coastal,1,210,50,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus flavomosaicus,Tropical rays,Coastal,60,353,59,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus gigas,Tropical rays,Coastal,1,50,80,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus javanicus,Tropical rays,Coastal,0,100,34,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus kapalensis,Tropical rays,Coastal,9,130,52,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus lobatus,Tropical rays,Coastal,1,30,43,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus mitosis,Tropical rays,Coastal,100,200,33,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus orarius,Tropical rays,Coastal,5,50,31,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus paucimaculatus,Tropical rays,Coastal,0,150,57,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus sufflavus,Tropical rays,Coastal,45,320,42,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus viridis,Tropical rays,Coastal,20,330,51,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus westraliensis,Tropical rays,Coastal,60,220,36,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urobatis,Urobatis concentricus,Tropical rays,Coastal,0,109,38,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urobatis,Urobatis halleri,Tropical rays,Coastal,0,91,33.3,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urobatis,Urobatis jamaicensis,Tropical rays,Coastal,1,70,76,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urobatis,Urobatis maculatus,Tropical rays,Coastal,1,30,42,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urobatis,Urobatis marmoratus,Tropical rays,Coastal,NA,NA,38.5,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urobatis,Urobatis pardalis,Tropical rays,Coastal,0,53,38,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urobatis,Urobatis tumbesensis,Tropical rays,Coastal,1,20,41,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urotrygon,Urotrygon aspidura,Tropical rays,Coastal,5,100,42,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urotrygon,Urotrygon chilensis,Tropical rays,Coastal,1,60,43,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urotrygon,Urotrygon cimar,Tropical rays,Coastal,0,85,38,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urotrygon,Urotrygon microphthalmum,Tropical rays,Coastal,8,54,30,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urotrygon,Urotrygon munda,Tropical rays,Coastal,1,51,25,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urotrygon,Urotrygon nana,Tropical rays,Coastal,2,15,26,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urotrygon,Urotrygon reticulata,Tropical rays,Coastal,2,17,24,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urotrygon,Urotrygon rogersi,Tropical rays,Coastal,2,30,46,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urotrygon,Urotrygon simulatrix,Tropical rays,Coastal,2,15,27,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urotrygonidae,Urotrygon,Urotrygon venezuelae,Tropical rays,Coastal,5,10,36,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Zanobatidae,Zanobatus,Zanobatus maculatus,Tropical rays,Coastal,0,40,35.8,small,rhinobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Zanobatidae,Zanobatus,Zanobatus schoenleinii,Tropical rays,Coastal,1,60,100,medium,rhinobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Hexatrygonidae,Hexatrygon,Hexatrygon bickelli,Tropical rays,Deepwater,300,1636,168,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Plesiobatidae,Plesiobatis,Plesiobatis daviesi,Tropical rays,Deepwater,44,901,270,large,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Spinilophus,Spinilophus armatus,Tropical rays,Deepwater,NA,NA,17.4,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus deforgesi,Tropical rays,Deepwater,203,330,34,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus expansus,Tropical rays,Deepwater,130,420,52,medium,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus kaianus,Tropical rays,Deepwater,230,236,23.5,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus neocaledoniensis,Tropical rays,Deepwater,229,430,37,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus papilio,Tropical rays,Deepwater,330,330,31,small,rajobenthic
+Elasmobranchii,Batoidea,Myliobatiformes,Urolophidae,Urolophus,Urolophus piperatus,Tropical rays,Deepwater,162,370,48,small,rajobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus acronotus,Tropical requiem sharks,Coastal,18,64,137,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus albimarginatus,Tropical requiem sharks,Coastal,0,800,300,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus altimus,Tropical requiem sharks,Coastal,0,810,300,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus amblyrhynchoides,Tropical requiem sharks,Coastal,0,75,178,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus amblyrhynchos,Tropical requiem sharks,Coastal,0,275,255,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus amboinensis,Tropical requiem sharks,Coastal,0,100,280,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus borneensis,Tropical requiem sharks,Coastal,0,50,70,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus brachyurus,Tropical requiem sharks,Coastal,1,145,325,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus brevipinna,Tropical requiem sharks,Coastal,0,200,304,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus cautus,Tropical requiem sharks,Coastal,0,20,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus cerdale,Tropical requiem sharks,Coastal,0,40,140,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus coatesi,Tropical requiem sharks,Coastal,0,123,88,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus dussumieri,Tropical requiem sharks,Coastal,0,100,100,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus fitzroyensis,Tropical requiem sharks,Coastal,0,40,135,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus hemiodon,Tropical requiem sharks,Coastal,10,150,102,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus humani,Tropical requiem sharks,Coastal,0,43,83,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus isodon,Tropical requiem sharks,Coastal,0,20,200,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus leiodon,Tropical requiem sharks,Coastal,30,40,165,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus leucas,Tropical requiem sharks,Coastal,1,164,400,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus limbatus,Tropical requiem sharks,Coastal,0,140,286,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus macloti,Tropical requiem sharks,Coastal,1,200,99,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus melanopterus,Tropical requiem sharks,Coastal,0,75,180,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus obscurus,Tropical requiem sharks,Coastal,1,500,420,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus obsoletus,Tropical requiem sharks,Coastal,0,50,100,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus perezi,Tropical requiem sharks,Coastal,0,378,295,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus plumbeus,Tropical requiem sharks,Coastal,0,280,240,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus porosus,Tropical requiem sharks,Coastal,0,84,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus sealei,Tropical requiem sharks,Coastal,0,40,95,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus sorrah,Tropical requiem sharks,Coastal,0,140,196,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus tilstoni,Tropical requiem sharks,Coastal,0,150,200,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Carcharhinus,Carcharhinus tjutjot,Tropical requiem sharks,Coastal,0,100,94,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Galeocerdo,Galeocerdo cuvier,Tropical requiem sharks,Coastal,0,1112,740,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Glyphis,Glyphis gangeticus,Tropical requiem sharks,Coastal,0,50,266,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Glyphis,Glyphis garricki,Tropical requiem sharks,Coastal,1,23,251,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Glyphis,Glyphis glyphis,Tropical requiem sharks,Coastal,0,23,260,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Isogomphodon,Isogomphodon oxyrhynchus,Tropical requiem sharks,Coastal,4,40,160,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Lamiopsis,Lamiopsis temminckii,Tropical requiem sharks,Coastal,0,50,178,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Lamiopsis,Lamiopsis tephrodes,Tropical requiem sharks,Coastal,0,50,157,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Loxodon,Loxodon macrorhinus,Tropical requiem sharks,Coastal,7,120,99,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Nasolamia,Nasolamia velox,Tropical requiem sharks,Coastal,0,192,150,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Negaprion,Negaprion acutidens,Tropical requiem sharks,Coastal,0,90,340,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Negaprion,Negaprion brevirostris,Tropical requiem sharks,Coastal,0,92,368,large,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Rhizoprionodon,Rhizoprionodon acutus,Tropical requiem sharks,Coastal,1,200,110,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Rhizoprionodon,Rhizoprionodon lalandii,Tropical requiem sharks,Coastal,3,70,77,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Rhizoprionodon,Rhizoprionodon longurio,Tropical requiem sharks,Coastal,0,27,154,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Rhizoprionodon,Rhizoprionodon oligolinx,Tropical requiem sharks,Coastal,0,36,70,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Rhizoprionodon,Rhizoprionodon porosus,Tropical requiem sharks,Coastal,0,500,110,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Rhizoprionodon,Rhizoprionodon taylori,Tropical requiem sharks,Coastal,0,110,88,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Rhizoprionodon,Rhizoprionodon terraenovae,Tropical requiem sharks,Coastal,0,280,113,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Scoliodon,Scoliodon laticaudus,Tropical requiem sharks,Coastal,10,75,91,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Scoliodon,Scoliodon macrorhynchos,Tropical requiem sharks,Coastal,0,50,71,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Carcharhinidae,Triaenodon,Triaenodon obesus,Tropical requiem sharks,Coastal,1,330,200,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Hemigaleidae,Chaenogaleus,Chaenogaleus macrostoma,Tropical requiem sharks,Coastal,0,160,125,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Hemigaleidae,Hemigaleus,Hemigaleus australiensis,Tropical requiem sharks,Coastal,12,170,110,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Hemigaleidae,Hemigaleus,Hemigaleus microstoma,Tropical requiem sharks,Coastal,0,170,114,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Hemigaleidae,Hemipristis,Hemipristis elongata,Tropical requiem sharks,Coastal,1,131,240,medium,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Hemigaleidae,Paragaleus,Paragaleus leucolomatus,Tropical requiem sharks,Coastal,20,20,96,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Hemigaleidae,Paragaleus,Paragaleus longicaudatus,Tropical requiem sharks,Coastal,20,20,96,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Hemigaleidae,Paragaleus,Paragaleus pectoralis,Tropical requiem sharks,Coastal,1,100,138,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Hemigaleidae,Paragaleus,Paragaleus randalli,Tropical requiem sharks,Coastal,1,18,84,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Hemigaleidae,Paragaleus,Paragaleus tengi,Tropical requiem sharks,Coastal,1,20,93,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Leptochariidae,Leptocharias,Leptocharias smithii,Tropical requiem sharks,Coastal,0,90,89,small,littoral
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Asymbolus,Asymbolus analis,Tropical requiem sharks,Coastal,25,200,60,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Asymbolus,Asymbolus funebris,Tropical requiem sharks,Coastal,144,144,44,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Asymbolus,Asymbolus occiduus,Tropical requiem sharks,Coastal,98,400,60,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Asymbolus,Asymbolus parvus,Tropical requiem sharks,Coastal,59,360,40,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Asymbolus,Asymbolus rubiginosus,Tropical requiem sharks,Coastal,25,540,55,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Asymbolus,Asymbolus submaculatus,Tropical requiem sharks,Coastal,30,200,44,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Asymbolus,Asymbolus vincenti,Tropical requiem sharks,Coastal,27,220,56,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Galeus,Galeus sauteri,Tropical requiem sharks,Coastal,60,90,49.8,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Halaelurus,Halaelurus boesemani,Tropical requiem sharks,Coastal,37,91,48,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Halaelurus,Halaelurus buergeri,Tropical requiem sharks,Coastal,27,100,49,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Halaelurus,Halaelurus lineatus,Tropical requiem sharks,Coastal,0,290,56,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Halaelurus,Halaelurus maculosus,Tropical requiem sharks,Coastal,50,80,53,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Halaelurus,Halaelurus natalensis,Tropical requiem sharks,Coastal,1,172,50,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Halaelurus,Halaelurus quagga,Tropical requiem sharks,Coastal,54,300,37,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Halaelurus,Halaelurus sellus,Tropical requiem sharks,Coastal,62,164,42,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Haploblepharus,Haploblepharus edwardsii,Tropical requiem sharks,Coastal,0,288,64,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Haploblepharus,Haploblepharus fuscus,Tropical requiem sharks,Coastal,0,35,69,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Haploblepharus,Haploblepharus kistnasamyi,Tropical requiem sharks,Coastal,0,50,50,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Haploblepharus,Haploblepharus pictus,Tropical requiem sharks,Coastal,0,35,60,small,probenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Pentanchidae,Parmaturus,Parmaturus nigripalatum,Tropical requiem sharks,Coastal,170,190,54.8,small,probathic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Proscyllidae,Ctenacis,Ctenacis fehlmanni,Tropical requiem sharks,Coastal,70,300,52,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Proscyllidae,Proscyllium,Proscyllium habereri,Tropical requiem sharks,Coastal,52,320,65,small,leptobenthic
+Elasmobranchii,Selachimorpha,Carcharhiniformes,Proscyllidae,Proscyllium,Proscyllium magnificum,Tropical requiem sharks,Coastal,141,300,49,small,leptobenthic

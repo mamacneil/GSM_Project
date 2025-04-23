@@ -1,0 +1,205 @@
+ISO2,country,population_millions
+AF,Afghanistan,39.80
+AL,Albania,2.90
+DZ,Algeria,44.60
+AO,Angola,33.90
+AG,Antigua and Barbuda,0.10
+AR,Argentina,45.60
+AM,Armenia,3.00
+AW,Aruba1,0.10
+AU,Australia2,25.80
+AT,Austria,9.00
+AZ,Azerbaijan3,10.20
+BS,Bahamas,0.40
+BH,Bahrain,1.70
+BD,Bangladesh,166.30
+BB,Barbados,0.30
+BY,Belarus,9.40
+BE,Belgium,11.60
+BZ,Belize,0.40
+BJ,Benin,12.50
+BT,Bhutan,0.80
+BO,Bolivia (Plurinational State of),11.80
+BA,Bosnia and Herzegovina,3.30
+BW,Botswana,2.40
+BR,Brazil,214.00
+BN,Brunei Darussalam,0.40
+BG,Bulgaria,6.90
+BF,Burkina Faso,21.50
+BI,Burundi,12.30
+KH,Cambodia,16.90
+CM,"Cameroon, Republic of",27.20
+CA,Canada,38.10
+CV,Cape Verde,0.60
+CF,Central African Republic,4.90
+TD,Chad,16.90
+CL,Chile,19.20
+CN,China4,1444.20
+HK,"China, Hong Kong SAR5",7.60
+MO,"China, Macao SAR6",0.70
+CO,Colombia,51.30
+KM,Comoros,0.90
+CD,"Congo, Democratic Republic of the",92.40
+CG,"Congo, Republic of the",5.70
+CR,Costa Rica,5.10
+CI,Cote d'Ivoire,27.10
+HR,Croatia,4.10
+CU,Cuba,11.30
+CW,Curacao1,0.20
+CY,Cyprus7,1.20
+CZ,Czechia,10.70
+DK,Denmark8,5.80
+DJ,Djibouti,1.00
+DM,Dominica,0.10
+DO,Dominican Republic,11.00
+EC,Ecuador,17.90
+EG,Egypt,104.30
+SV,El Salvador,6.50
+GQ,Equatorial Guinea,1.40
+ER,Eritrea,3.60
+EE,Estonia,1.30
+SZ,Eswatini,1.20
+ET,Ethiopia,117.90
+FJ,Fiji,0.90
+FI,Finland9,5.50
+FR,France11,65.40
+GF,French Guiana11,0.30
+PF,French Polynesia11,0.30
+GA,Gabon,2.30
+GM,Gambia,2.50
+GE,Georgia12,4.00
+DE,Germany,83.90
+GH,Ghana,31.70
+GR,Greece,10.40
+GD,Grenada,0.10
+GP,Guadeloupe11,0.40
+GU,Guam13,0.20
+GT,Guatemala,18.20
+GN,Guinea,13.50
+GW,Guinea-Bissau,2.00
+GY,Guyana,0.80
+HT,Haiti,11.50
+HN,Honduras,10.10
+HU,Hungary,9.60
+IS,Iceland,0.30
+IN,India,1393.40
+ID,Indonesia,276.40
+IR,Iran (Islamic Republic of),85.00
+IQ,Iraq,41.20
+IE,Ireland,5.00
+IL,Israel,8.80
+IT,Italy,60.40
+JM,Jamaica,3.00
+JP,Japan,126.10
+JO,Jordan,10.30
+KZ,Kazakhstan,19.00
+KE,Kenya,55.00
+KI,Kiribati,0.10
+KP,"Korea, Democratic People's Republic of",25.90
+KR,"Korea, Republic of",51.30
+KW,Kuwait,4.30
+KG,Kyrgyzstan,6.60
+LA,Lao People's Democratic Republic,7.40
+LV,Latvia,1.90
+LB,Lebanon,6.80
+LS,Lesotho,2.20
+LR,Liberia,5.20
+LY,Libya,7.00
+LT,Lithuania,2.70
+LU,Luxembourg,0.60
+MG,Madagascar,28.40
+MW,Malawi,19.60
+MY,Malaysia14,32.80
+MV,Maldives,0.50
+ML,Mali,20.90
+MT,Malta,0.40
+MQ,Martinique11,0.40
+MR,Mauritania,4.80
+MU,Mauritius15,1.30
+MX,Mexico,130.30
+FM,Micronesia (Federated States of),0.10
+MD,"Moldova, Republic of16",4.00
+MN,Mongolia,3.30
+ME,Montenegro,0.60
+MA,Morocco,37.30
+MZ,Mozambique,32.20
+MM,Myanmar,54.80
+NA,Namibia,2.60
+NP,Nepal,29.70
+NL,Netherlands17,17.20
+NC,New Caledonia11,0.30
+NZ,New Zealand18,4.90
+NI,Nicaragua,6.70
+NE,Niger,25.10
+NG,Nigeria,211.40
+MK,North Macedonia,2.10
+NO,Norway19,5.50
+OM,Oman,5.20
+PK,Pakistan,225.20
+PS,Palestine20,5.20
+PA,Panama,4.40
+PG,Papua New Guinea,9.10
+PY,Paraguay,7.20
+PE,Peru,33.40
+PH,Philippines,111.00
+PL,Poland,37.80
+PT,Portugal,10.20
+PR,Puerto Rico13,2.80
+QA,Qatar,2.90
+RE,Reunion11,0.90
+RO,Romania,19.10
+RU,Russian Federation,145.90
+RW,Rwanda,13.30
+KN,Saint Kitts and Nevis,0.10
+LC,Saint Lucia,0.20
+VC,Saint Vincent and the Grenadines,0.10
+WS,Samoa,0.20
+SM,San Marino,0.00
+ST,Sao Tome and Principe,0.20
+SA,Saudi Arabia,35.30
+SN,Senegal,17.20
+RS,Serbia21,8.70
+SC,Seychelles,0.10
+SL,Sierra Leone,8.10
+SG,Singapore,5.90
+SX,Sint Maarten1,0.00
+SK,Slovakia,5.50
+SI,Slovenia,2.10
+SB,Solomon Islands,0.70
+SO,Somalia,16.40
+ZA,South Africa,60.00
+SS,South Sudan,11.40
+ES,Spain22,46.70
+LK,Sri Lanka,21.50
+SD,Sudan,44.90
+SR,Suriname,0.60
+SE,Sweden,10.20
+CH,Switzerland,8.70
+SY,Syrian Arab Republic,18.30
+TJ,Tajikistan,9.70
+TZ,"Tanzania, United Republic of23",61.50
+TH,Thailand,70.00
+TL,"Timor-Leste, Democratic Republic of",1.30
+TG,Togo,8.50
+TO,Tonga,0.10
+TT,Trinidad and Tobago,1.40
+TN,Tunisia,11.90
+TR,Turkey,85.00
+TM,Turkmenistan,6.10
+TC,Turks and Caicos Islands,0.00
+TV,Tuvalu,0.00
+UG,Uganda,47.10
+UA,Ukraine24,43.50
+AE,United Arab Emirates,10.00
+GB,United Kingdom25,68.20
+US,United States of America26,332.90
+VI,United States Virgin Islands13,0.10
+UY,Uruguay,3.50
+UZ,Uzbekistan,33.90
+VU,Vanuatu ,0.30
+VE,Venezuela (Bolivarian Republic of),28.70
+VN,Viet Nam,98.20
+EH,Western Sahara,0.60
+YE,Yemen,30.50
+ZM,Zambia,18.90
+ZW,Zimbabwe,15.10

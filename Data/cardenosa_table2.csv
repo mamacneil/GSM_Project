@@ -1,0 +1,100 @@
+﻿Order,Scientific name,Common name,IUCN,CITES status,Size,Habitat,CountGZ,% of samples GZ,Count HK,% of samples HK
+Carcharhiniformes,Prionace glauca,Blue shark,NT,,Large,Oceanic,616,36.11,"2,979",39.01
+Carcharhiniformes,Carcharhinus falciformis,Silky shark,VU,Appendix II,Large,Oceanic,327,19.17,973,12.74
+Carcharhiniformes,"Carcharhinus limbatus, Carcharhinus leiodon, Carcharhinus tilstoni, Carcharhinus amblyrhynchoides","Blacktip, Graceful, Smoothtooth blacktip, Australian blacktip sharks",NT,,Large,Coastal,37,2.17,356,4.66
+Carcharhiniformes,Carcharhinus spp.,Requiem sharks,,,,,139,8.15,336,4.4
+Carcharhiniformes,Sphyrna lewini,Scalloped hammerhead shark,CR,Appendix II,Large,Oceanic,71,4.16,323,4.23
+Carcharhiniformes,Sphyrna zygaena,Smooth hammerhead shark,VU,Appendix II,Large,Oceanic,62,3.63,276,3.61
+Lamniformes,Isurus oxyrinchus,Shortfin mako shark,EN,,Large,Oceanic,71,4.16,181,2.37
+Chimaeriformes,Callorhinchus spp.,Chimaeras,,,Small,Coastal,24,1.41,160,2.1
+Carcharhiniformes,Rhizoprionodon acutus,Milk shark,LC,,Small,Coastal,31,1.82,158,2.07
+Carcharhiniformes,Carcharhinus leucas,Bull shark,NT,,Large,Coastal,22,1.29,129,1.69
+Lamniformes,Alopias pelagicus,Pelagic thresher shark,EN,Appendix II,Large,Oceanic,28,1.64,122,1.6
+Carcharhiniformes,Carcharhinus amboinensis,Pigeye shark,DD,,Large,Coastal,14,0.82,113,1.48
+Carcharhiniformes,Carcharhinus brevipinna,Spinner shark,NT,,Large,Coastal,10,0.59,102,1.34
+Lamniformes,Lamna ditropis,Salmon shark,LC,,Large,Oceanic,7,0.41,78,1.02
+Carcharhiniformes,Mustelus punctulatus,Blackspotted smooth-hound shark,DD,,Small,Coastal,31,1.82,75,0.98
+Carcharhiniformes,Carcharhinus sorrah,Spot-tail shark,NT,,Small,Coastal,26,1.58,74,0.97
+Squaliformes,Dalatia licha,Kitefin shark,NT,,Large,Deep-benthic,0,0,72,0.94
+Carcharhiniformes,Sphyrna mokarran,Great hammerhead shark,CR,Appendix II,Large,Coastal,5,0.29,70,0.92
+Carcharhiniformes,Mustelus canis,Smooth dogfish,NT,,Small,Coastal,2,0.12,68,0.89
+Carcharhiniformes,Carcharhinus longimanus,Oceanic whitetip shark,CR,Appendix II,Large,Oceanic,27,1.58,63,0.83
+Carcharhiniformes,"Carcharhinus obscurus, Carcharhinus galapagensis",Dusky/Galapagos shark,VU/NT,,Large,Coastal,2,0.12,58,0.76
+Carcharhiniformes,Mustelus schmitti,Narrownose smooth-hound shark,EN,,Small,Coastal,29,1.7,57,0.75
+Carcharhiniformes,"Carcharhinus altimus, Carcharhinus plumbeus",Bignose/Sandbar shark,DD/VU,,Large,Coastal,6,0.35,51,0.67
+Carcharhiniformes,Galeocerdo cuvier,Tiger shark,NT,,Large,Coastal,10,0.59,47,0.62
+Rhinopristiformes,Rhynchobatus australiae,White-spotted wedgefish,CR,,Large,Coastal,0,0,45,0.59
+Lamniformes,Alopias spp.,Thresher sharks,VU,,Large,Oceanic,2,0.12,38,0.5
+Rhinopristiformes,Rhynchobatus spp.,Wedgefishes,CR,,Large,Coastal,4,0.23,35,0.46
+Carcharhiniformes,Negaprion acutidens,Sicklefin lemon shark,VU,,Large,Coastal,0,0,35,0.46
+Carcharhiniformes,Rhizoprionodon taylori,Australian sharpnose shark,LC,,Small,Coastal,1,0.06,34,0.45
+Squaliformes,Centrophorus spp.,Gulper sharks,,,Small,Deep-benthic,0,0,31,0.41
+Carcharhiniformes,Mustelus spp.,Smooth-hound sharks,,,Small,Coastal,13,0.76,30,0.39
+Carcharhiniformes,Galeorhinus galeus,Soupfin shark,VU,,Large,Coastal,3,0.18,24,0.31
+Carcharhiniformes,Carcharhinus amblyrhynchos,Grey reef shark,NT,,Large,Coastal,1,0.06,24,0.31
+Orectolobiformes,Chiloscyllium punctatum,Bamboo shark,NT,,Small,Coastal,0,0,22,0.29
+Carcharhiniformes,"Rhizoprionodon porosus, Rhizoprionodon terraenovae",Caribbean/Atlantic sharpnose sharks,LC,,Small,Coastal,2,0.12,21,0.28
+Carcharhiniformes,Carcharhinus dussumieri,Whitecheek shark,EN,,Small,Coastal,1,0.06,21,0.28
+Carcharhiniformes,Carcharhinus limbatus,Blacktip shark,NT,,Large,Coastal,0,0,21,0.28
+Carcharhiniformes,Rhizoprionodon spp.,Sharpnose sharks,,,Small,Coastal,9,0.53,20,0.26
+Orectolobiformes,Chiloscyllium spp.,Bamboo sharks,,,Small,Coastal,0,0,20,0.26
+Rhinopristiformes,Rhynchobatus laevis,Smoothnose wedgefish,CR,,Large,Coastal,0,0,17,0.22
+Carcharhiniformes,Carcharhinus acronotus,Blacknose shark,NT,,Small,Coastal,2,0.12,16,0.21
+Carcharhiniformes,Carcharhinus brachyurus,Bronze whaler shark,NT,,Large,Coastal,2,0.12,16,0.21
+Carcharhiniformes,Mustelus henlei,Brown smooth-hound shark,LC,,Small,Coastal,1,0.06,16,0.21
+Carcharhiniformes,Hemipristis elongata,Snaggletooth shark,VU,,Small,Coastal,5,0.29,14,0.18
+Carcharhiniformes,Mustelus mosis,Arabian smooth-hound shark,DD,,Small,Coastal,0,0,13,0.17
+Carcharhiniformes,Mustelus mustelus,Common smooth-hound shark,VU,,Small,Coastal,4,0.23,12,0.16
+Squaliformes,Squalus acanthias,Spiny dogfish,VU,,Small,Coastal,2,0.12,12,0.16
+Carcharhiniformes,Rhizoprionodon oligolinx,Grey sharpnose shark,LC,,Small,Coastal,0,0,11,0.14
+Carcharhiniformes,Carcharhinus albimarginatus,Silvertip shark,VU,,Large,Coastal,6,0.35,10,0.13
+Lamniformes,Lamna nasus,Porbeagle shark,VU,Appendix II,Large,Oceanic,4,0.23,9,0.12
+Lamniformes,Alopias superciliosus,Bigeye thresher shark,VU,Appendix II,Large,Oceanic,9,0.53,7,0.09
+Carcharhiniformes,Carcharhinus melanopterus,Blacktip reef shark,NT,,Small,Coastal,3,0.18,7,0.09
+Chimaeriformes,Hydrogalus novaezealandiae,Dark ghostshark,LC,,Small,Deep-benthic,0,0,7,0.09
+Carcharhiniformes,Rhizoprionodon longurio,Pacific sharpnose shark,DD,,Small,Coastal,0,0,7,0.09
+Carcharhiniformes,Carcharhinus isodon,Finetooth shark,LC,,Small,Coastal,0,0,7,0.09
+Chimaeriformes,Hydrogalus spp.,Other chimeras,,,Small,Deep-benthic,0,0,7,0.09
+Orectolobiformes,Chiloscyllium plagiosum,Whitespotted bamboo shark,NT,,Small,Coastal,0,0,6,0.08
+Carcharhiniformes,Carcharhinus macloti,Hardnose shark,NT,,Small,Coastal,0,0,6,0.08
+Carcharhiniformes,Carcharhinus amblyrhynchoides,Graceful shark,NT,,Large,Coastal,0,0,6,0.08
+Squaliformes,Squalus spp.,Dogfishes,,,Small,Coastal,4,0.23,5,0.07
+Carcharhiniformes,Negaprion brevirostris,Lemon shark,NT,,Large,Coastal,2,0.12,5,0.07
+Squaliformes,Centroscymnus coelolepis,Portuguese dogfish,NT,,Small,Deep-benthic,0,0,5,0.07
+Carcharhiniformes,Lamiopsis temminckii,Broadfin shark,EN,,Small,Coastal,0,0,5,0.07
+Carcharhiniformes,Carcharhinus porosus,Smalltail shark,DD,,Small,Coastal,1,0.06,4,0.05
+Carcharhiniformes,Glyphis spp.,River sharks,EN,,Large,Riverine/coastal,0,0,4,0.05
+Squaliformes,Deania profundorum,Arrowhead dogfish,LC,,Small,Deep-benthic,0,0,4,0.05
+Lamniformes,Isurus paucus,Longfin mako shark,EN,,Large,Oceanic,0,0,4,0.05
+Carcharhiniformes,Scoliodon laticaudus,Spadenose shark,NT,,Small,Coastal,0,0,4,0.05
+Carcharhiniformes,Hemigaleus australiensis,Australian weasel shark,LC,,Small,Coastal,4,0.23,3,0.04
+Lamniformes,Lamna spp.,,,,Large,Oceanic,0,0,3,0.04
+Rhinopristiformes,Rhynchobatus djiddensis,Giant guitarfish,CR,,Large,Coastal,0,0,3,0.04
+Carcharhiniformes,Mustelus lunulatus,Sicklefin smooth-hound shark,LC,,Small,Coastal,0,0,3,0.04
+Carcharhiniformes,Loxodon spp.,,,,Small,Coastal,0,0,3,0.04
+Carcharhiniformes,Sphyrna tiburo,Bonnethead shark,LC,,Small,Coastal,0,0,3,0.04
+Carcharhiniformes,"Carcharhinus brevipinna, Carcharhinus brachyurus",Spinner/Bronze whaler shark,,,Large,Coastal,0,0,3,0.04
+Carcharhiniformes,Sphyrna spp.,Hammerhead sharks,,,,,0,0,3,0.04
+Carcharhiniformes,Loxodon macrorhinus,Sliteye shark,LC,,Small,Coastal,1,0.06,2,0.03
+Squaliformes,Centrophorus isodon,Blackfin gulper shark,DD,,Small,Deep-benthic,0,0,2,0.03
+Lamniformes,Alopias vulpinus,Common thresher shark,VU,Appendix II,Large,Oceanic,0,0,2,0.03
+Carcharhiniformes,Mustelus californicus,Grey smooth-hound shark,LC,,Small,Coastal,0,0,2,0.03
+Carcharhiniformes,Sphyrna tudes,Smalleye hammerhead shark,VU,,Small,Coastal,0,0,2,0.03
+Carcharhiniformes,Triaenodon obesus,Whitetip reef shark,NT,,Small,Coastal,2,0.12,1,0.01
+Carcharhiniformes,Eusphyra blochii,Winghead shark,EN,,Large,Coastal,1,0.06,1,0.01
+Rhinopristiformes,Glaucostegus spp.,Giant guitarfishes,EN,,Large,Coastal,0,0,1,0.01
+Rhinopristiformes,Pristis spp.,Sawfishes,CR,,Large,Coastal,0,0,1,0.01
+Carcharhiniformes,Hemigaleus microstoma,Sicklefin weasel shark,VU,,Small,Coastal,0,0,1,0.01
+Chimaeriformes,Callorhinchus callorynchus,Elephantfish,LC,,Small,Coastal,0,0,1,0.01
+Lamniformes,Carcharias taurus,Sandtiger shark,VU,,Large,Coastal,0,0,1,0.01
+Hexanchiformes,Hexanchus griseus,Bluntnose sixgill shark,NT,,Large,Coastal,0,0,1,0.01
+Squatiniformes,Squatina californica,Pacific angel shark,NT,,Small,Coastal,0,0,1,0.01
+Orectolobiformes,Stegostoma fasciatum,Zebra shark,NT,,Large,Coastal,0,0,1,0.01
+Squaliformes,Squalidae,,,,,,0,0,1,0.01
+Rhinopristiformes,Glaucostegus cemiculus,Blackchin guitarfish,EN,,Large,Coastal,0,0,1,0.01
+Rhinopristiformes,Rhyna ancylostoma,Bowmouth guitarfish,EN,,Large,Coastal,0,0,1,0.01
+Squaliformes,Deania spp.,Deepwater dogfish sharks,,,,,0,0,1,0.01
+Carcharhiniformes,Scoliodon spp.,,,,Small,Coastal,15,0.88,0,0
+Carcharhiniformes,Carcharhinidae,,,,,,3,0.18,0,0
+Carcharhiniformes,Scoliodon macrorhynchos,Pacific spadenose shark,,,Small,Coastal,2,0.12,0,0
+Carcharhiniformes,Lamiopsis spp.,Broadfin sharks,EN,,Small,Coastal,1,0.06,0,0
