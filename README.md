@@ -1,4 +1,4 @@
-# GSM_Science
+# GSM_Project
 Codebase for the Global Shark Meat project
 
 ## Setup
